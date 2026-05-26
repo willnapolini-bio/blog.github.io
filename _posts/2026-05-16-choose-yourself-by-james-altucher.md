@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Choose Yourself — Data Sampler Summary"
 description: >-
@@ -30,4 +29,3 @@ alt: "Visual summary of Choose Yourself's key concepts"
 pin: false
 fallback:
 ---
-```
