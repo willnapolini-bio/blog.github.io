@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Do the Work — Data Sampler Summary"
 description: >-
@@ -30,4 +29,3 @@ alt: "Visual summary of Do the Work's key concepts"
 pin: false
 fallback:
 ---
-```
