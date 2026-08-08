@@ -30,6 +30,14 @@ pin: false
 fallback:
 ---
 
+Are you looking for a way to write copy that actually converts instead of just sounding clever? Have you ever stared at a blank page, knowing you need to sell but hating the feeling of becoming "salesy"? Do you suspect there's a repeatable formula behind great copy, but every book you've picked up feels too theoretical to use? Hey, my name is Will, and if you answered "yes" to any of these questions, this article is for you.
+
+Most copywriting advice falls into two useless camps: the "be creative" camp that offers zero structure, and the "follow this exact template" camp that makes your writing sound like a robot. What's missing is the middle ground — the psychological machinery underneath the words. Without that, you're just guessing, and guessing doesn't pay the bills.
+
+You could keep hunting through blog posts collecting headline formulas, or you could buy another expensive course that teaches you how to write like that specific guru. But these approaches give you tactics without understanding. You end up with a toolbox full of tools you don't know when to use.
+
+The best solution I've found is Andy Maslen's deceptively simple approach in 100 Great Copywriting Ideas. This isn't a book of cheesy templates — it's a collection of psychological patterns distilled from decades of direct-response experience. The core insight that changed everything for me: write for one person reading alone, not the boardroom that approved the budget. In this summary, I've extracted the four most powerful patterns from Maslen's book — the ones that turn skeptical readers into nodding buyers before they even realise what's happening.
+
 # 100 Great Copywriting Ideas (Andy Maslen) — Data Sampler Summary
 
 ## Core Insight
