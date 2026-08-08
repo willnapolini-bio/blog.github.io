@@ -2,6 +2,8 @@
 title: "100 Great Copywriting Ideas — Data Sampler Summary"
 description: >-
   Four core writing pillars—hooks, headlines, storytelling, CTAs—deliver 100 proven patterns to boost persuasion, engagement, and conversion rates.
+excerpt: >-
+  Most copywriting advice falls into two useless camps: the "be creative" camp that offers zero structure, and the "follow this exact template" camp that makes your writing sound like a robot. What's missing is the middle ground — the psychological machinery underneath the words. Andy Maslen's 100 Great Copywriting Ideas fills that gap with 100 repeatable patterns.
 date: 2026-05-16 00:00:00 +0800
 categories: [book-summaries, marketing, copywriting]
 tags: [
