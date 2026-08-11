@@ -33,7 +33,7 @@ tags: [
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213168/100-great-copywriting-ideas-by-andy-maslen_qbjlvp.png"
 alt: "Visual summary of the eight pillars in 100 Great Copywriting Ideas by Andy Maslen—listening, headlines, benefits, simplicity, story, calls to action, editing, and testing"
 pin: false
-fallback: ""
+fallback:
 ---
 
 # The Words That Change Everything: What Andy Maslen Taught Me About Writing, Selling, and Becoming
