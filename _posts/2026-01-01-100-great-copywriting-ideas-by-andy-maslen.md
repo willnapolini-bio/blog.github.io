@@ -1,0 +1,113 @@
+---
+title: "100 Great Copywriting Ideas by Andy Maslen — A Mentor's Summary"
+description: >-
+  Eight pillars—deep listening, headlines, benefits, simplicity, story, clear asks, editing, testing—turn Maslen's 100 patterns into persuasion that serves.
+excerpt: >-
+  I was twenty-three, staring at a blank page on a Tuesday afternoon, unable to make a single stranger care. Andy Maslen's 100 Great Copywriting Ideas handed me the architecture I was missing—100 repeatable patterns built on one truth: persuasion is empathy made visible. Here are the eight pillars I still use every day, handed to you the way I wish someone had handed them to me.
+date: 2026-01-01 00:00:00 +0800
+categories: [book-summaries, marketing, copywriting]
+tags: [
+  100-great-copywriting-ideas-summary,
+  100-great-copywriting-ideas-by-andy-maslen,
+  andy-maslen,
+  copywriting-tips,
+  persuasive-writing,
+  marketing-psychology,
+  headline-formulas,
+  conversion-optimization,
+  advertising-copy,
+  content-marketing,
+  sales-writing,
+  direct-response,
+  creative-frameworks,
+  brand-messaging,
+  writing-for-business,
+  audience-engagement,
+  call-to-action,
+  copywriting-techniques,
+  benefits-over-features,
+  storytelling-in-copy,
+  empathy-in-marketing,
+  writing-craft
+]
+image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213168/100-great-copywriting-ideas-by-andy-maslen_qbjlvp.png"
+alt: "Visual summary of the eight pillars in 100 Great Copywriting Ideas by Andy Maslen—listening, headlines, benefits, simplicity, story, calls to action, editing, and testing"
+pin: false
+fallback: ""
+---
+
+# The Words That Change Everything: What Andy Maslen Taught Me About Writing, Selling, and Becoming
+
+I remember the exact Tuesday afternoon my whole relationship with language shifted. I was twenty-three, staring at a blank page, trying to sell a product I believed in, and I could not string two sentences together that made a stranger care. Not one. I had the passion. I had the product. What I did not have was the architecture—the invisible scaffolding that turns a good intention into a sentence that makes someone lean forward in their chair and whisper, *"Yes, this is for me."* Then I found Andy Maslen's *100 Great Copywriting Ideas*, and I realized something that changed the trajectory of my life: **persuasion is not a talent you are born with; it is a craft you build, one deliberate brick at a time.** And if I could learn it—clumsy, uncertain, twenty-three-year-old me—then you can learn it too. Not someday. Today.
+
+Let me tell you what this book is, and more importantly, what it is not. Maslen did not write a textbook. He wrote a field guide for the working soul—100 short, punchy chapters, each one a single principle you can hold in your hand like a smooth river stone. No chapter runs longer than three or four pages. You can read one with your morning coffee and spend the rest of the day seeing the world differently. That is the genius of the structure. **Great wisdom does not need to be heavy to be deep.** Maslen understood that the best teachers hand you one seed at a time and trust you to plant it.
+
+## The First Principle: You Are Not Writing. You Are Listening.
+
+If I could tattoo one idea from this book onto your heart, it would be this: the best copywriters spend more time researching their reader than they spend writing a single word. Maslen hammers this again and again—interview your customers, read their complaints, eavesdrop on their language, learn what keeps them awake at 2:00 a.m. staring at the ceiling. The words you need are already out there, floating in conversations and emails and frustrated sighs. Your job is to collect them like a farmer collects rain.
+
+Here is the Rohn truth underneath it: **you cannot serve someone you have not studied.** I spent my first two years writing what I thought sounded clever. Nobody responded. The day I stopped performing and started listening—really listening to what people actually said, in their own stumbling, imperfect words—everything changed. My response rates tripled in ninety days. Not because I got smarter. Because I got quieter. You have that same capacity in you right now. You do not need to be brilliant. You need to be attentive.
+
+## Headlines: The Handshake Before the Conversation
+
+Maslen devotes serious attention to the headline, and he is right to. He will tell you that eight out of ten people will read your headline, but only two will read the rest. Let that sink in. Your headline is not decoration. It is the front door of the house you built. If the door is locked, nobody sees the beautiful rooms inside.
+
+He gives you specific, workable formulas: use numbers, provoke curiosity, promise a specific benefit, speak directly to one person. But underneath the formulas, the principle is this: **a great headline is an act of generosity—it tells the reader, in six seconds, that you understand their world.** When I write a headline now, I ask myself one question: *Would the person I am writing for stop scrolling and feel seen?* That is the test. Not cleverness. Recognition. You can learn to write headlines that make people feel recognized, and the beautiful thing is, the more you practice, the more natural it becomes. Like a musician playing scales until the music pours out without thinking. You are building that muscle right now, even by reading these words.
+
+## Benefits Over Features: Sell the Transformation, Not the Tool
+
+This is the idea Maslen returns to like a river returns to the sea. Do not tell me the drill has a 5/8-inch chuck. Tell me I can hang my daughter's paintings on the wall by Saturday afternoon and she will look up at them and say, *"Daddy, you did that?"* Features describe the object. Benefits describe the life after the object. **People do not buy products; they buy better versions of themselves.**
+
+I want you to hear me on this, because it applies far beyond copywriting. When you present an idea in a meeting, when you ask someone to invest in your vision, when you are trying to explain why your work matters—do not lead with the mechanism. Lead with the transformation. Lead with the Saturday afternoon. Lead with the daughter looking up and smiling. You already know how to do this. You do it every time you tell a friend why they should try that restaurant, read that book, take that trip. You say, *"It will change how you feel."* That is copywriting. That is you, already doing the work.
+
+## Simplicity Is a Form of Respect
+
+Maslen is relentless about clarity. Short sentences. Common words. One idea per paragraph. He quotes the old advertising masters and reminds us that the goal is never to impress the reader with our vocabulary. The goal is to make the reader feel smart. **If your reader has to work to understand you, you have made them pay a tax they never agreed to pay.**
+
+I learned this the hard way. I used to write sentences that were forty words long, stacked with subordinate clauses, because I thought complexity signaled intelligence. What it actually signaled was insecurity. The day I committed to writing the way I talk—warm, direct, a little imperfect—my readers finally trusted me. Maslen will tell you: write like you are explaining something to a friend across a kitchen table. One friend. Not a crowd. One person who matters. When you write to one, everyone feels included. When you write to everyone, no one feels chosen. And you, my friend, are learning to write so that one person feels chosen. That is a sacred thing.
+
+## Story: The Oldest Persuasion Technology on Earth
+
+Scattered through the 100 ideas is Maslen's deep respect for narrative. He shows you how a brief story—a customer's struggle, a founder's late night, a single moment of doubt followed by a breakthrough—does more persuasive work than ten bullet points ever could. The brain is wired for story. It has been wired for story since we gathered around fires and said, *"Let me tell you what happened."*
+
+Maslen gives you a simple architecture: a character, a problem, a turning point, a resolution. Four beats. That is all you need. I have used this structure in sales pages, in emails, in speeches, in conversations where I needed someone to understand why something mattered. And here is what I have learned after twenty years of using it: **your own story, told honestly, is the most persuasive copy you will ever write.** Not because it is polished. Because it is true. And truth has a frequency that people feel in their chest before their brain catches up. You have a story. You have a turning point. You have a resolution you are still living into. Start there.
+
+## The Call to Action: Where Courage Lives
+
+Maslen does not let you hide behind beautiful prose. He insists—gently but firmly—that every piece of copy must end by telling the reader exactly what to do next. Not hint. Not suggest. Tell them. *"Click here." "Call this number." "Start your free trial before Friday."* Specificity in the ask is not pushiness. It is clarity. And clarity is kindness.
+
+I want you to think about that. **The most loving thing you can do for someone who is ready is to make the next step unmistakable.** I used to soften my calls to action because I was afraid of seeming aggressive. What I discovered is that vague asks do not protect the reader. They abandon them. They leave the reader standing at a crossroads with no signpost, and most people, when left without direction, choose the path of least resistance—which is inaction. Give them the signpost. Give them the one clear step. You are not pressuring them. You are honoring the interest they have already shown. You are saying, *"I see you. I believe you are ready. Here is the door."*
+
+## Edit Like a Sculptor, Not Like a Hoarder
+
+One of the most liberating ideas in the book is Maslen's counsel on revision. Write the first draft messy. Get it all down. Then come back and cut. Cut the adverbs. Cut the throat-clearing first paragraph. Cut anything that does not earn its place. He will tell you that great copy is not written; it is rewritten. The first draft is the clay. The editing is the sculpture.
+
+And here is the life principle underneath, the one I want you to carry beyond the page: **growth is not about adding more; it is about removing what does not belong.** I have watched people transform their careers, their relationships, their health, not by piling on new habits, but by bravely cutting away the one or two things that were quietly draining them. Your writing will get stronger when you delete. Your life will get richer when you simplify. Trust the chisel. Trust the cut. What remains will be the truest version of what you meant to say.
+
+## Test, Learn, Repeat: The Compound Interest of Small Improvements
+
+Maslen closes many of his ideas with a nudge toward testing. Try two headlines. See which one wins. Change one word in your subject line. Measure what happens. He is not asking you to become a data scientist. He is asking you to become a gardener. **You plant a seed, you watch what grows, you adjust the water, you try again next season.** No single attempt is final. No single failure is permanent. Every test teaches you something that the next test will build on.
+
+This is where compounding lives. A one percent improvement, repeated over a hundred attempts, does not give you a hundred percent improvement. It gives you something closer to three hundred and seventy percent. That is the mathematics of showing up. That is the mathematics of not quitting. And you are showing up right now, reading this, letting these ideas settle into your thinking. That is not nothing. That is the first percent. And I am telling you, with the full conviction of someone who has watched hundreds of people go from uncertain to unstoppable: **your first percent matters more than you can possibly imagine, because it proves to yourself that you are the kind of person who begins.**
+
+## The Big Idea Underneath All 100 Ideas
+
+Here is what I have come to believe after living with Maslen's book for years, after dog-earing pages and wearing out the spine and lending it to friends and getting it back with coffee stains on chapter forty-seven. The 100 ideas are not really about copywriting. They are about *attention.* They are about the discipline of caring enough about another human being to learn their language, honor their time, tell them the truth clearly, and invite them toward something better.
+
+**Copywriting, at its best, is empathy made visible.** And empathy is a muscle you already have. You exercise it every time you listen to a friend, every time you choose your words carefully so someone does not feel small, every time you think, *"How can I say this so they feel understood?"* Maslen simply gives you a framework for doing that at scale, in writing, with purpose. The framework is learnable. The empathy is already in you. You are not starting from zero. You are starting from you. And you, right now, in this moment, are more than enough to begin.
+
+## So Here Is What I Want You to Do
+
+Not tomorrow. Not after you read one more article or watch one more video. Today. Within the next hour. Open a blank document or grab a legal pad and a pen—there is something honest about ink on paper—and write three sentences. Three sentences about something you believe in. A product, a service, an idea, a cause. Write it the way Maslen teaches: one specific person, one clear benefit, one honest story, one clear next step. Three sentences. That is all.
+
+You will probably hate the first draft. Good. That means you have taste. Write a second draft. Cut the fat. Make it sound like you talking to a friend at that kitchen table. Then read it out loud. If it makes you lean forward, even a little, you have done something remarkable. You have taken the raw material of your experience and shaped it into something that can move a stranger.
+
+**You were not put on this earth to stay silent about the things you care about.** You were put here to speak them clearly, to write them bravely, to build the bridge between what you believe and what someone else needs to hear. Maslen handed you the blueprints for that bridge. I am handing you the permission to start building.
+
+You are ready. You have been ready longer than you know. Now go write those three sentences. I will be here, rooting for you, when you come back for the next three.
+
+And the three after that.
+
+And the three after that.
+
+That is how a life gets built. Three sentences at a time. And yours, my friend, is going to be a masterpiece.
