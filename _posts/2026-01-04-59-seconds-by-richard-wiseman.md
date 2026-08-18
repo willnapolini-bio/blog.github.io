@@ -1,5 +1,5 @@
 ---
-title: 59 Seconds — Mentor Voice Summary
+title: 59 Seconds: The Minute That Changes Everything
 description: >-
   A mentor's warm, experience-tested take on Richard Wiseman's 59 Seconds:
   evidence-based sixty-second practices for happiness, motivation, love,
@@ -31,9 +31,6 @@ alt: "Visual summary of 59 Seconds's key concepts"
 pin: false
 fallback:
 ---
-
-# 59 Seconds: The Minute That Changes Everything
-
 I want you to imagine something with me for just a moment. Imagine you are standing at the edge of a vast field in early spring. The soil is dark and cold. Nothing is growing. And somewhere in the back of your mind, a quiet voice whispers, *"It would take a whole lifetime to turn this into a harvest."* I have heard that voice. I have felt it in my own chest on the mornings when the distance between where I stood and where I wanted to be felt so enormous that I could barely pull on my shoes. But here is the truth I have learned after decades of walking this road, after watching thousands of ordinary people build extraordinary lives: **you do not need a lifetime. You need fifty-nine seconds, repeated with intention, until the seasons turn.**
 
 That is the revelation at the heart of Richard Wiseman's *59 Seconds*, and I want you to let it land in you fully before we go any further. Wiseman, a psychologist who spent years sifting through hundreds of studies, discovered something that I believe in my bones: the most powerful shifts in how you think, feel, and act do not require years of therapy, expensive retreats, or some grand dramatic overhaul of your identity. They require less than a minute. Sixty seconds. The time it takes to tie your shoe, to pour your morning coffee, to close your eyes and take one deliberate breath. **Transformation is not a mountain you climb; it is a seed you plant, and the planting takes almost no time at all.**
