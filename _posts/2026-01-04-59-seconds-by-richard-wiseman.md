@@ -1,5 +1,5 @@
 ---
-title: 59 Seconds: The Minute That Changes Everything
+title: "59 Seconds: The Minute That Changes Everything"
 description: >-
   A mentor's warm, experience-tested take on Richard Wiseman's 59 Seconds:
   evidence-based sixty-second practices for happiness, motivation, love,
