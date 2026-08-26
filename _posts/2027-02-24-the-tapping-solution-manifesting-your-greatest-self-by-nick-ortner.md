@@ -14,7 +14,7 @@ tags: [
   self-sabotage,
   nick-ortner,
   subconscious-blocks,
-  personal-growth
+  personal-growth,
 ]
 image/upload/q_auto/f_auto/v1779213914/the-tapping-solution-manifesting-your-greatest-self-by-nick-ortner_k6deqd.png"
 alt: "A person sitting quietly, fingertips resting gently on their face in a tapping gesture, soft morning light suggesting calm and possibility"
