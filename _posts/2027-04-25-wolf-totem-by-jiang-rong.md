@@ -15,6 +15,7 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779214047/wolf-totem-by-jiang-rong_jkfgpc.png"
 alt: "A vast, windswept steppe under a wide sky, with the faint silhouette of a wolf standing in the tall, golden grass."
+audio_file: "will-napolini-wolf-totem-by-jiang-rong-summary_20260829-230235.mp3"
 pin: false
 fallback:
 ---
