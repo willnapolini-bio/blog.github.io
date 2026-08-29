@@ -24,12 +24,18 @@
 
   <!-- Custom Link to Digital Den -->
   <p><a href="https://willonsuccess.com" target="_blank" rel="noopener">willonsuccess.com</a></p>
-  
+
 </footer>
 
-<!-- Audio Player Script (Placed outside footer for clean code structure) -->
+<!-- Plyr Audio Player -->
 <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
 <script>
-  // Initialize Plyr for all audio players on the page
-  const players = Plyr.setup('.plyr-audio-player');
-  </script>
+  document.addEventListener('DOMContentLoaded', function () {
+    Plyr.setup('.plyr-audio-player', {
+      controls: [
+        'play', 'progress', 'current-time', 'duration',
+        'mute', 'volume', 'download', 'settings'
+      ]
+    });
+  });
+</script>
