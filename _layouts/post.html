@@ -82,6 +82,19 @@ tail_includes:
     <!-- .post-meta -->
   </header>
 
+  <!-- AUDIO PLAYER START -->
+  {% assign r2_base_url = "https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries" %}
+  
+  {% if page.audio_file %}
+  <div class="mt-3 mb-4 audio-player-container">
+    <audio controls preload="none">
+      <source src="{{ r2_base_url }}/{{ page.audio_file }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  {% endif %}
+  <!-- AUDIO PLAYER END -->
+
   <div class="content">
     {{ content }}
   </div>
@@ -136,4 +149,4 @@ tail_includes:
     <!-- .post-tail-bottom -->
   </div>
   <!-- div.post-tail-wrapper -->
-</article>
+  </article>
