@@ -1,33 +1,30 @@
-#  The contact options.
- - type: youtube
-  icon: "fab fa-youtube"
-  url: "https://youtube.com/@willnapolini-summaries?si=x3S65XlCyQn5cmv6"
-  
+# The contact options.
+
+# - type: youtube
+#   icon: "fab fa-youtube"
+#   url: "https://youtube.com/@willnapolini-summaries?si=x3S65XlCyQn5cmv6"
+
 # - type: linkedin
-#  icon: 'fab fa-linkedin'
-#  url: ''
+#   icon: 'fab fa-linkedin'
+#   url: ''
 
 - type: telegram
   icon: 'fab fa-telegram'
-  url: 'https://t.me/will_napolini_summaries'  # Replace with your Telegram username
+  url: 'https://t.me/will_napolini_summaries'
 
 - type: github
   icon: "fab fa-github"
 
-# - title: "Contact"
-#  url: ""
-#  icon: "fas fa-envelope"
-
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
-
- - type: email
-   icon: "fas fa-envelope"
-   noblank: true
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 # Uncomment and complete the url below to enable more contact options
 #
