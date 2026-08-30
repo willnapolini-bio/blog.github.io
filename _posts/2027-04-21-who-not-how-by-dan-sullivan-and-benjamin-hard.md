@@ -2,7 +2,7 @@
 title: "Who Not How – Why the Smartest Question You Can Ask Is Not 'How Do I Do This?'"
 description: >-
   Dan Sullivan and Benjamin Hardy argue that the question "How do I do this?" keeps you small, exhausted, and mediocre. The real lever in every domain of life is asking "Who can do this with me or for me?" This summary breaks down the principle and shows you how to apply it this week.
-date: 2026-08-29 00:00:00 +0800
+date: 2026-08-30 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   delegation,
@@ -157,3 +157,5 @@ The people who seem to move fastest are not stronger than you. They simply stopp
 Your next step is not a skill to acquire. It is a name to write down, a message to send, a door to knock on. The "who" is already out there, doing the very thing that is stalling you, often happily, often waiting for someone to ask.
 
 Go ask.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
