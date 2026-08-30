@@ -20,6 +20,8 @@ pin: false
 fallback:
 ---
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-not-how-by-dan-sullivan-and-benjamin-hard.m4a" %}
+
 I want you to think about the last goal you set for yourself. The project you wanted to launch. The skill you wanted to learn. The renovation, the fitness plan, the book, the business idea, the reorganization at work. And I want you to notice the very first question that formed in your mind when you imagined doing it.
 
 If you are like most people I have talked to over the years, that question was some version of: *How am I going to do this?*
