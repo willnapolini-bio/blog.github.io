@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779214036/who-moved-my-cheese-by-spencer-johnson_zhp6cf.png"
 alt: "A winding maze with paths branching in multiple directions, one path lit warmly as if leading somewhere new"
-pin: false
+pin: true
 fallback:
 ---
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-moved-my-cheese-by-spencer-johnson.m4a" %}
+
 
 Have you ever held tightly to something—a job, a relationship, a routine, a version of yourself—long after it stopped nourishing you? Not because you were foolish. Not because you lacked courage. But because it was familiar, and familiarity felt safer than stepping into a corridor where you could not yet see the walls?
 
@@ -168,3 +170,5 @@ The cheese will keep moving. It always has. It always will. That is not a threat
 The maze is large. The corridors are many. And somewhere past the fear you are feeling right now, there is a station you have not yet imagined, full of something that will fit the person you are becoming.
 
 Put on your running shoes. Walk toward it.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
