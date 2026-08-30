@@ -20,6 +20,8 @@ pin: false
 fallback:
 ---
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/willpower-doesnt-work-by-benjamin-hardy.m4a" %}
+
 I want you to picture the last time you tried to change something through sheer force of intention. Maybe it was a diet that lasted eleven days. Maybe it was the alarm you set for 5:30 a.m., silenced four times before you finally dragged yourself upright, already feeling defeated before your feet touched the floor. Maybe it was the promise to write, to exercise, to stop scrolling, to be patient with your children, to finally start the project you keep describing to friends as "something I'm working on."
 
 You tried. You genuinely tried. And for a while, the effort held. Then Tuesday arrived with its particular exhaustion, or Wednesday brought an unexpected stress, and the whole structure—built entirely on the thin wire of your resolve—snapped.
