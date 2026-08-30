@@ -139,3 +139,6 @@ You are not broken because the old approach failed you. You were using a strateg
 Build the room. Then let the room build you.
 
 The channel is waiting to be dug. And the water—your energy, your attention, your one finite and precious life—is ready to flow somewhere new. All it needs is a direction you choose, once, with your hands in the soil, before the current decides for you.
+
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
