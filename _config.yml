@@ -35,13 +35,13 @@ description: >- # used by seo meta and the atom feed
 url: "https://willnapolini.com"
 
 github:
- username: willnapolini-bio # change to your github username
+ username: willnapolini # change to your github username
 
 twitter:
   username:  # change to your twitter username
 
 telegram:
-  username:  # change to your actual Telegram username
+  username: will_napolini_summaries # change to your actual Telegram username
 
 social:
   # Change to your full name.
@@ -55,7 +55,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://github.com/willnapolini-bio/blog.github.io
+    - https://github.com/willnapolini
     - https://t.me/will_napolini_summaries  # add this line
 
 # Site Verification Settings
@@ -162,7 +162,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "willnapolini.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
