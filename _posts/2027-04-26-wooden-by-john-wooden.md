@@ -19,6 +19,8 @@ pin: false
 fallback:
 ---
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/wooden-by-john-wooden.m4a" %}
+
 What if the most successful coach in American sports history didn’t measure success by trophies?
 
 John Wooden won ten national championships in twelve years at UCLA, including seven in a row—a record that still stands. He was named the greatest coach of the twentieth century by ESPN. And yet, if you had asked him what he was most proud of, he would not have pointed to the banners hanging from the rafters. He would have pointed to the young men who left his program as husbands, fathers, teachers, and citizens of integrity.
@@ -154,3 +156,5 @@ John Wooden died in 2010 at the age of ninety-nine. The banners still hang in Pa
 You do not need a championship to build something that lasts. You need a foundation. You need patience. You need the courage to lay bricks when no one is watching.
 
 Start laying yours today.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
