@@ -26,8 +26,9 @@ Beyond the blog, I build things with AI. I create open-source datasets and fine-
 Questions, ideas, or just want to say hi?
 
 💬 Telegram: [Will Napolini](https://t.me/will_napolini_summaries)
+
 🤗 Hugging Face: [WILL-NAPOLINI-HF](https://huggingface.co/WILL-NAPOLINI-HF)
 
 ---
 
-*Some links on this site are affiliate links. If you buy through them, I earn a small commission at no extra cost to you. It helps keep this going.*
+> *Some links on this site are affiliate links. If you buy through them, I earn a small commission at no extra cost to you. It helps keep this going.*
