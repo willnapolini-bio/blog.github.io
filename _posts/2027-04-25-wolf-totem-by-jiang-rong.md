@@ -166,4 +166,4 @@ Look at the horizon. Read the wind. Protect your roots.
 
 A caged spirit will always starve in a room full of food. Open the gate, trust the wildness inside you, and remember that you were built for the steppe.
 
-{% include telegram-banner.html url="https://t.me/will_reads" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
