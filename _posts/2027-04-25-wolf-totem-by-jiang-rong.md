@@ -19,7 +19,7 @@ pin: false
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/will-napolini-wolf-totem-by-jiang-rong-summary_20260829-230235.mp3" %}
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/will-napolini-wolf-totem-by-jiang-rong-summary.m4a" %}
 
 Have you ever noticed how the very things we do to make our lives "safer" and "more predictable" often end up draining the life out of us? 
 
