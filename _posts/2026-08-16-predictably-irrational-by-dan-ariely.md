@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/predictably-irrational-by-dan-ariely.mp3" %}
-
 Imagine you are sitting at a nice restaurant. You open the menu and see a steak priced at $45. It feels a bit steep, and you hesitate. But then your eyes drift up to the top of the page, where a massive, extravagant seafood tower is listed for $115. 
 
 Suddenly, that $45 steak doesn't look so bad. In fact, it feels like a responsible, reasonable choice. You order it, feeling good about your financial restraint. 
@@ -33,6 +31,8 @@ We like to imagine ourselves as the cool, calculating captains of our own ships.
 We are not rational. But more importantly, we are not *randomly* irrational. Our mistakes are systematic. They are predictable. We all fall into the exact same cognitive traps, over and over again, because our brains are wired with ancient shortcuts that misfire in the modern world.
 
 The central thesis of the book is not that you are broken. It is that your brain is operating on hidden scripts. And once you can see the scripts, you can stop being a puppet to them. You can begin to design your environment, your habits, and your choices to work *with* your human nature, rather than fighting a losing battle against it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/predictably-irrational-by-dan-ariely.mp3" %}
 
 ### The Architecture of Human Choice
 
