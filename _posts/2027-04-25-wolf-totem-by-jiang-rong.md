@@ -19,8 +19,6 @@ pin: false
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/will-napolini-wolf-totem-by-jiang-rong-summary.m4a" %}
-
 Have you ever noticed how the very things we do to make our lives "safer" and "more predictable" often end up draining the life out of us? 
 
 We build rigid routines to save time, but we lose our spontaneity. We accept stable, predictable paths to secure our future, but we quietly surrender our edge. We pave over the wild, unpredictable parts of our days, believing we are creating order, only to find ourselves standing in a desert of our own making, wondering where all our energy went.
@@ -30,6 +28,8 @@ I have watched this happen to brilliant, capable people. They work so hard to co
 If you have ever felt like you are doing everything "right" but still feel an exhausting emptiness creeping in, I want to talk to you about a book that will change how you see your life. 
 
 It is not a self-help book. It is a sprawling, epic, and sometimes brutal novel about the Mongolian grasslands during the 1960s. *Wolf Totem* by Jiang Rong is a story about nomadic herders, terrifying winters, and the wolves that rule the steppe. But beneath the surface of the narrative lies one of the most piercing diagnoses of the human condition I have ever encountered.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/will-napolini-wolf-totem-by-jiang-rong-summary.m4a" %}
 
 ## The Big Idea: The Ecosystem of Your Life
 
