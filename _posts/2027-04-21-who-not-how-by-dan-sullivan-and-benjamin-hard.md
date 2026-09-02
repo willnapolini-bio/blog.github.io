@@ -20,8 +20,6 @@ pin: false
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-not-how-by-dan-sullivan-and-benjamin-hard.m4a" %}
-
 I want you to think about the last goal you set for yourself. The project you wanted to launch. The skill you wanted to learn. The renovation, the fitness plan, the book, the business idea, the reorganization at work. And I want you to notice the very first question that formed in your mind when you imagined doing it.
 
 If you are like most people I have talked to over the years, that question was some version of: *How am I going to do this?*
@@ -33,6 +31,8 @@ And then the second thought arrives, almost automatically: *I don't have time to
 What if I told you that the single most expensive question in your life is not whether you have the discipline, the talent, or the hours. It is the word *how*. And that replacing it with one other word changes almost everything.
 
 That is the argument at the center of *Who Not How*, written by Dan Sullivan, the founder of Strategic Coach, alongside organizational psychologist Benjamin Hardy. The book is not long. The idea is not complicated. But the idea, once it truly lands, rearranges the way you approach every goal, every project, and every season of growth for the rest of your life.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-not-how-by-dan-sullivan-and-benjamin-hard.m4a" %}
 
 ## The Big Idea in One Sentence
 
