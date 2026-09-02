@@ -2,7 +2,7 @@
 title: "You Don’t Need a Better Brain. You Need Better Lenses."
 description: >-
   Gabriel Weinberg and Lauren McCann’s *Super Thinking* argues that brilliance isn't about raw intelligence; it's about having the right mental models. Here is how to build a cognitive toolkit that cuts through complexity, prevents costly mistakes, and helps you see the world as it actually is.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   mental-models,
@@ -16,9 +16,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213613/super-thinking-by-gabriel-weinberg-and-lauren-mccann_hhtpad.png"
 alt: "A pair of glasses resting on an open notebook next to a compass, symbolizing the clarity and direction that come from using the right mental models"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/super-thinking.mp3" %}
 
 Have you ever watched someone solve a complex problem with an ease that made you feel quietly inadequate? 
 
@@ -180,3 +182,5 @@ The quality of your life is not determined by how much you know. It is determine
 You do not need to be born a genius. You just need to build a better toolkit. 
 
 Pick up a new lens today. Wipe it clean. Hold it up to the problem that has been staring you down. You might be surprised at how clearly you can finally see.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
