@@ -20,8 +20,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-psychology-of-money-by-morgan-housel.mp3" %}
-
 There is a quiet lie most of us carry about money, and it goes something like this: *If I just knew more—if I understood the right strategy, found the right investment, read the right book—then I would finally be okay.*
 
 I used to believe that too. I thought financial success was an intelligence problem. A knowledge problem. A puzzle to be solved by the sharpest mind in the room.
@@ -31,6 +29,8 @@ Then I watched people with modest incomes build quiet, unshakable security over 
 Morgan Housel's *The Psychology of Money* is built on exactly this observation. The book's central argument is deceptively simple: **doing well with money has very little to do with how smart you are, and a great deal to do with how you behave.** Finance is not primarily a math problem. It is a psychology problem. And that changes everything about how you should approach it.
 
 If I could sit across the table from you right now, coffee cooling between us, I would say this: the most important financial skill you will ever develop is not analysis. It is self-awareness. And Housel's book is one of the finest maps I have seen for building it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-psychology-of-money-by-morgan-housel.mp3" %}
 
 ## No One Is Crazy—Everyone Is Playing a Different Game
 
