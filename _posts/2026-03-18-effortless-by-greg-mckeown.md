@@ -2,7 +2,7 @@
 title: "Stop Grinding and Start Flowing: A Mentor's Guide to Greg McKeown’s Effortless"
 description: >-
   You already know what matters most. But if doing it is slowly destroying you, you are using the wrong approach. Discover how Greg McKeown’s Effortless teaches us to achieve our most important goals without the burnout.
-date: 2026-08-14 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   effortless,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213294/effortless-by-greg-mckeown_thrqvm.png"
 alt: "A person sitting peacefully in a sunlit room, writing in a journal with a relaxed posture and a cup of tea nearby."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/effortless-by-greg-mckeown.mp3" %}
 
 I want to ask you a question that might make you slightly uncomfortable. How much of your current exhaustion comes from doing the wrong things, and how much comes from doing the right things in the hardest possible way?
 
@@ -147,3 +149,5 @@ You do not need to bleed for your goals to be worthy of them. You do not need to
 Stop pushing the heavy doors. Look at the handle. Pull. 
 
 The life you are working so hard to build is waiting for you on the other side, and you are allowed to arrive there with your energy intact.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
