@@ -20,8 +20,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-gap-and-the-gain-by-dan-sullivan.mp3" %}
-
 You set a goal. You work hard. You achieve it. And instead of feeling satisfied, you feel a quiet, nagging sense that you are still falling short. 
 
 You may be working hard and still wondering why nothing seems to change inside you. The promotion arrives, but the imposter syndrome remains. The business hits its revenue target, but the anxiety about the next quarter immediately takes its place. You cross the finish line, only to find that the finish line has moved.
@@ -34,7 +32,7 @@ The central idea is this: You have a choice in how you measure your progress. Yo
 
 This is not merely a trick for feeling better. It is a fundamental rewiring of how you build confidence, sustain motivation, and actually become the person you want to be.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-gap-and-the-gain-by-dan-sullivan.mp3" %}
 
 ### The Trap of the Moving Horizon
 
