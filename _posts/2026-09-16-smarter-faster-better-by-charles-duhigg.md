@@ -19,9 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/smarter-faster-better-by-charles-duhigg.mp3" %}
-
-
 I want to ask you about the weight of your to-do list. 
 
 Not the physical weight of the paper, or the digital weight of the app notifications, but the psychological weight. The quiet, persistent hum of anxiety that sits in your chest when you realize it is 3:00 PM, you have been busy all day, and yet you have accomplished almost nothing that actually matters. 
@@ -37,6 +34,8 @@ Charles Duhigg, the Pulitzer Prize-winning journalist who previously mapped the 
 What he discovered is that true productivity has almost nothing to do with willpower. It is not about forcing yourself to work harder. It is about making a specific set of choices regarding how you view your autonomy, how you direct your attention, and how you frame your goals.
 
 Let me walk you through the mechanics of how the most effective people in the world actually think, and how you can borrow their architecture to stop spinning and start steering.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/smarter-faster-better-by-charles-duhigg.mp3" %}
 
 ## The Big Idea: Productivity Is the Art of Making Better Choices
 
