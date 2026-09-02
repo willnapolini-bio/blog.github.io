@@ -2,7 +2,7 @@
 title: "Feel-Good Productivity by Ali Abdaal: Why Grinding Yourself Down Is the Wrong Strategy for Getting Things Done"
 description: >-
   Ali Abdaal's Feel-Good Productivity dismantles the myth that productivity requires suffering. This article unpacks the book's central idea—that energy, enjoyment, and alignment fuel sustainable output—and shows you how to build work and habits that actually feel good to do.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   productivity,
@@ -16,9 +16,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213318/feel-good-productivity-by-ali-abdaal_ymu8c0.png"
 alt: "A person working peacefully at a sunlit desk, surrounded by plants and an open notebook, embodying calm and energized focus"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/feel-good-productivity-by-ali-abdaal.mp3" %}
 
 There is a quiet lie most of us carry around about getting things done. It goes something like this: *If I could just discipline myself harder, push through the resistance, white-knuckle my way past the discomfort—then finally I would be productive. Then finally I would feel proud of my days.*
 
@@ -147,3 +149,5 @@ And if ten minutes turns into forty, wonderful. If it stays at ten, also wonderf
 A life built from ten-minute acts of gentle starting looks nothing like a life built from heroic, grinding sprints. But it lasts. And it compounds. And one day you look back and realize that the person you became was not forged in a single dramatic effort.
 
 They were built in a thousand small moments where you chose curiosity over criticism, and began.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
