@@ -2,7 +2,7 @@
 title: "Essentialism by Greg McKeown: Why Doing Less Is the Path to Doing What Truly Matters"
 description: >-
   Essentialism by Greg McKeown challenges the assumption that we must do everything to succeed. This summary explores how the disciplined pursuit of less leads to higher contribution, clearer decisions, and a life that actually feels like yours.
-date: 2026-08-15 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   essentialism,
@@ -17,9 +17,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213304/essentialism-by-greg-mckeown_lwqf8z.png"
 alt: "A single clear path cutting through dense fog, representing the focused pursuit of what truly matters"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/essentialism-by-greg-mckeown.mp3" %}
 
 You have probably felt it. That slow, quiet exhaustion of saying yes to so many things that you no longer remember which ones you actually chose. Your calendar is full. Your task list keeps growing. You are busy from morning until night. And yet, at the end of the week, you look back and wonder: *Did any of that actually move me toward what matters?*
 
@@ -158,3 +160,5 @@ The life you want is not buried under a lack of effort. It is buried under a sur
 One no at a time. One clear yes at a time. One Tuesday at a time.
 
 The path is not wide. But it is yours. And it is enough.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
