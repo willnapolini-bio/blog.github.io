@@ -19,8 +19,6 @@ pin: false
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/wooden-by-john-wooden.m4a" %}
-
 What if the most successful coach in American sports history didn’t measure success by trophies?
 
 John Wooden won ten national championships in twelve years at UCLA, including seven in a row—a record that still stands. He was named the greatest coach of the twentieth century by ESPN. And yet, if you had asked him what he was most proud of, he would not have pointed to the banners hanging from the rafters. He would have pointed to the young men who left his program as husbands, fathers, teachers, and citizens of integrity.
@@ -28,6 +26,8 @@ John Wooden won ten national championships in twelve years at UCLA, including se
 I have spent decades studying people who build things that last—not just careers or companies, but lives. And I keep returning to Wooden, not because he was perfect, but because he understood something most high achievers miss: **you cannot sustain external excellence without internal foundation.**
 
 If you are tired of chasing results that evaporate, if you want to build something that outlasts your own ambition, I want to share what this quiet man from Indiana taught me about the architecture of a meaningful life.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/wooden-by-john-wooden.m4a" %}
 
 ## The Big Idea: Success Is an Inside Job First
 
