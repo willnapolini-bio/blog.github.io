@@ -2,7 +2,7 @@
 title: "The Body Keeps the Score: Why Healing Trauma Starts Where Thinking Ends"
 description: >-
   Bessel van der Kolk's landmark book reveals that trauma reshapes the brain and body in ways talk alone cannot reach. This summary explores how understanding that truth can change the way you approach your own healing.
-date: 2026-08-23 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   trauma-healing,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213670/the-body-keeps-the-score-by-bessel-van-der-kolk_ylflea.png"
 alt: "A person standing at the edge of a calm lake at dawn, reflecting on the water's surface, symbolizing the quiet work of healing and reconnecting with oneself"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-body-keeps-the-score.mp3" %}
 
 There is a question I have heard people ask themselves in a hundred different ways, and it always sounds something like this: *Why can't I just get over it?*
 
@@ -136,3 +138,5 @@ That does not happen overnight. It does not happen because someone tells you to 
 You have carried enough for one lifetime. You are allowed to set some of it down. Not all at once. Not perfectly. But you are allowed.
 
 And the first breath you take with that permission changes everything.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
