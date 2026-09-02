@@ -17,7 +17,6 @@ alt: "A minimalist wooden desk with a single open notebook and a pen, bathed in 
 pin: true
 fallback:
 ---
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-almanack-of-naval-ravikant-summary.mp3" %}
 
 I used to believe there was a hidden tax on success. For a long time, I operated under the quiet assumption that if you wanted to build significant wealth, you had to sacrifice your peace of mind. The cultural narrative suggested that you could either be rich and stressed, or poor and happy, but you could not be both. 
 
@@ -26,6 +25,8 @@ I have since learned that this is a false dichotomy. It is a lie we tell ourselv
 If you are feeling trapped in the cycle of trading your time for money, or if you are achieving your goals but still feel a persistent hum of anxiety beneath your ribs, I want to share a framework that will fundamentally shift how you view your life. 
 
 In *The Almanack of Naval Ravikant*, Eric Jorgenson curates the public wisdom of entrepreneur and philosopher Naval Ravikant. This is not a traditional book. It has no single narrative arc. Instead, it is a dense, highly concentrated distillation of mental models, business principles, and philosophical truths. But beneath the aphorisms and the business advice lies a profoundly simple, life-changing thesis.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-almanack-of-naval-ravikant-summary.mp3" %}
 
 ### The Big Idea: Wealth and Happiness Are Skills
 
