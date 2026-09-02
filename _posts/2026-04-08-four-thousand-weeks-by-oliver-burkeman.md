@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/four-thousand-weeks-by-oliver-burkeman.mp3" %}
-
 Let us do a little math. It is the kind of math that changes the way you breathe.
 
 If you live to be eighty years old, you have roughly four thousand weeks. 
@@ -32,6 +30,8 @@ That is not a lot. You can hold that number in your mind. If you were to draw fo
 Most productivity books look at that terrifyingly small number and say: *Hurry. Optimize. Squeeze more out of every hour. Here is a system to help you do it all.*
 
 Oliver Burkeman, a journalist who spent years writing about psychology and the self-help industry, looked at that same number and came to a radically different conclusion. He realized that the entire modern project of "time management" is a trap. You are not failing at time management because you have the wrong app, the wrong morning routine, or the wrong color-coded planner. You are failing because the goal itself is impossible.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/four-thousand-weeks-by-oliver-burkeman.mp3" %}
 
 ## The Big Idea: The Freedom of Giving Up
 
