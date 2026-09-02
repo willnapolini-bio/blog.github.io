@@ -2,7 +2,7 @@
 title: "Think and Grow Rich by Napoleon Hill: Why Your Thoughts Are the Blueprint of Your Reality"
 description: >-
   Napoleon Hill's Think and Grow Rich remains the foundational text of personal development. Here is how its timeless principles of burning desire, psychological programming, and organized persistence can still build the life you want today.
-date: 2026-08-27 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   napoleon-hill,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213950/think-and-grow-rich-by-napoleon-hill_p0ulwq.png"
 alt: "A glowing blueprint resting on a wooden workbench, illuminated by a single warm light, symbolizing the design of a future reality"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/think-and-grow-rich-by-napoleon-hill.mp3" %}
 
 Have you ever noticed how some people seem to bend circumstances to their will, while others are constantly bent by circumstances? 
 
@@ -175,3 +177,5 @@ Then, place that piece of paper where you will see it every morning and every ni
 A wish is a request you make to the universe. A burning desire is a demand you make of yourself. 
 
 You have the blueprint. Now, pick up the tools and start building.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
