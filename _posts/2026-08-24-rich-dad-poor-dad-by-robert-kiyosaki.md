@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/rich-dad-poor-dad-by-robert-kiyosaki.mp3" %}
-
 You work hard. You follow the rules. You get the degree, you take the job, you get the promotion. Yet, at the end of the month, you look at your bank account and wonder where it all went. 
 
 If I could sit across the table from you right now, I would tell you something that might feel like a heavy truth: You are not struggling because you lack work ethic. You are struggling because you were handed the wrong map.
@@ -29,6 +27,8 @@ From the time we are old enough to sit at a desk, we are taught a very specific 
 But the world has changed, and that old map no longer leads to the destination it promises. It leads to a treadmill. You run faster, you earn more, but the treadmill speeds up to match your pace. 
 
 In his paradigm-shifting book *Rich Dad Poor Dad*, Robert Kiyosaki dismantles the mythology of the "safe" path. He reveals that the primary difference between the wealthy and the middle class is not the size of their income, but the architecture of their minds. The rich do not work for money. They build systems that make money work for them.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/rich-dad-poor-dad-by-robert-kiyosaki.mp3" %}
 
 ### The Tale of Two Maps
 
