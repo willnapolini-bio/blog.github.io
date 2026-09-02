@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-richest-man-in-babylon-by-george-s-clason.mp3" %}
-
 There is a question I have heard asked in a hundred different ways, usually with a tired voice and a half-smile that is really a grimace: "I work hard. I've always worked hard. Why does the money still slip through my fingers?"
 
 If that question belongs to you, I want you to know something before we go any further. You are not broken. You are not uniquely undisciplined. You are caught in a pattern so common that a man wrote an entire book about it nearly a century ago, setting his lessons in the dust and lamplight of ancient Babylon because he understood that the problem is older than any of us.
@@ -28,6 +26,9 @@ If that question belongs to you, I want you to know something before we go any f
 The book is *The Richest Man in Babylon*, written by George S. Clason in 1926. It is thin. It reads like a collection of stories. And yet the ideas inside it have shaped the financial thinking of millions of readers for almost a hundred years. Not because the ideas are complicated. Because they are startlingly simple, and because most of us have never been taught to take them seriously.
 
 I want to walk you through what this book actually teaches, why it still works, and—most importantly—what you can do with it starting this week. Not next month. This week.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-richest-man-in-babylon-by-george-s-clason.mp3" %}
+
 
 ## The Big Idea: Wealth Is Not an Event. It Is a Direction.
 
