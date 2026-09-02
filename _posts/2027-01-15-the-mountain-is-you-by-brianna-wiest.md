@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-mountain-is-you-by-brianna-wiest.mp3" %}
-
 You know exactly what you need to do. You have the plan, the tools, and the desire. You have read the books, bought the planners, and made the late-night promises to yourself. Yet, every time you get close to the summit—every time the business is about to launch, the relationship is about to deepen, or the healthy habit is about to stick—you trip over your own feet.
 
 You procrastinate. You pick a fight. You eat the food you swore off. You scroll until 2:00 AM. 
@@ -33,6 +31,9 @@ It was not until I encountered the framework Brianna Wiest lays out in *The Moun
 The mountain is you. 
 
 Specifically, the mountain is the unhealed, subconscious architecture of your mind that is terrified of the change that success will bring. Let us walk through what this means, why your brain is quietly plotting against your own happiness, and how you can finally stop fighting yourself and start building a life you do not need to escape from.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-mountain-is-you-by-brianna-wiest.mp3" %}
+
 
 ## The Big Idea: Self-Sabotage Is a Misguided Shield
 
