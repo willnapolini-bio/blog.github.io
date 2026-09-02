@@ -2,7 +2,7 @@
 title: "Can't Hurt Me: Why Your Mind Quits Long Before Your Body Does (And How to Fix It)"
 description: >-
   David Goggins' brutal journey from a depressed, overweight exterminator to a Navy SEAL reveals a profound truth about human potential. Discover how to override your mental governor, callous your mind, and unlock the vast reserves of strength you didn't know you had.
-date: 2026-08-13 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   mental-toughness,
@@ -14,9 +14,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213247/cant-hurt-me-by-david-goggins_dtomkj.png"
 alt: "A close-up of a climber's chalked hands gripping a rugged rock face, symbolizing the deliberate friction required to build mental and physical resilience."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/cant-hurt-me-by-david-goggins.mp3" %}
 
 There is a specific, quiet moment that happens to all of us. It happens on the treadmill when your lungs burn. It happens at your desk when the project seems too vast and your energy is too low. It happens in the mirror when you look at your life and realize it is not what you hoped it would be.
 
@@ -180,3 +182,5 @@ Write the raw truth on that sticky note. Not the polite version. The real versio
 Tomorrow morning, when you brush your teeth, look at it. Do not look away. Acknowledge it. And then, make one small decision that aligns with the truth, rather than the excuse.
 
 The friction you avoid today is the exact material you need to build the person you want to become tomorrow. The wall is not there to keep you out. The wall is there to ask you, quietly and firmly, how much you are willing to endure to get to the other side.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
