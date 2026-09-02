@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/12-rules-for-life-by-jordan-peterson.mp3" %}
-
 Have you ever caught yourself secretly resenting the people around you for their success, while feeling entirely justified in your own stagnation? 
 
 You watch a peer get the promotion, buy the house, or build the relationship you desperately want, and a quiet, bitter voice whispers in your ear. It tells you that the game is rigged. It tells you that your parents didn't give you the right advantages, that the economy is stacked against you, or that you were simply dealt a bad hand. It feels incredibly comforting in the moment to play the victim, because if the world is unfair, then your lack of progress isn't your fault.
@@ -29,6 +27,8 @@ But if I could sit across the table from you right now, I would look you in the 
 In his deeply challenging and profoundly necessary book, *12 Rules for Life: An Antidote to Chaos*, clinical psychologist Jordan B. Peterson dismantles the modern obsession with victimhood and shallow happiness. He does not offer you a comfortable cushion. He offers you a heavy backpack, and he tells you that picking it up is the only way you will ever find peace.
 
 The central thesis of the book is that life is inherently tragic, difficult, and chaotic. You cannot escape suffering, and you cannot engineer a life free of problems. Therefore, the goal of life is not to pursue fleeting happiness. The goal is to adopt enough meaningful responsibility that the suffering of life becomes bearable, and even noble. You are not a helpless leaf blown about by the winds of circumstance. You are an agent of order, capable of standing up, facing the chaos, and building a foundation of meaning.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/12-rules-for-life-by-jordan-peterson.mp3" %}
 
 ### The Ancient Biology of Standing Tall
 
