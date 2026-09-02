@@ -4,7 +4,7 @@ description: >-
   A mentor's guide to Dan Sullivan and Benjamin Hardy's 'The Gap and The Gain,' 
   showing you how to stop chasing an impossible ideal and start building 
   unshakeable confidence by measuring your progress backward.
-date: 2026-08-24 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   the-gap-and-the-gain,
@@ -16,9 +16,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213733/the-gap-and-the-gain-by-dan-sullivan-and-benjamin-hardy_irz79f.png"
 alt: "A person looking back at a path they have traveled, symbolizing measuring progress backward"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-gap-and-the-gain-by-dan-sullivan.mp3" %}
 
 You set a goal. You work hard. You achieve it. And instead of feeling satisfied, you feel a quiet, nagging sense that you are still falling short. 
 
@@ -142,3 +144,5 @@ Read it aloud to yourself.
 You cannot reach a horizon by walking toward it; you can only appreciate how far you have traveled by looking back at the path behind you. 
 
 Stop measuring the distance to the person you have not yet become. Start honoring the person you have already built. That is where your true momentum begins.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
