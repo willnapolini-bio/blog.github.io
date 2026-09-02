@@ -14,7 +14,7 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213645/the-alchemist-by-paulo-coelho_ald5ag.png"
 alt: "A lone shepherd walking across a vast desert landscape under a starry night sky"
-pin: false
+pin: true
 fallback:
 ---
 
