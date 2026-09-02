@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-subtle-art-of-not-giving-a-fck.mp3" %}
-
 You are exhausted. Not because your life is empty, but because it is too full. Too many opinions to weigh. Too many comparisons to survive scrolling past. Too many problems that feel urgent because someone on the internet said they should be. Too many versions of a "good life" competing for your attention, each one insisting that you are one purchase, one promotion, one morning routine away from finally being enough.
 
 And somewhere underneath all that noise, a quieter voice is asking: *What if I just stopped caring about most of this?*
@@ -28,6 +26,8 @@ And somewhere underneath all that noise, a quieter voice is asking: *What if I j
 Mark Manson wrote a book with that exact impulse in its title, and here is the first thing you should understand about it, because almost everyone gets it wrong. *The Subtle Art of Not Giving a F\*ck* is not a book about apathy. It is not a permission slip to stop caring, to coast, to treat other people's suffering with indifference. It is almost the opposite. It is a book about the fact that you have a limited supply of caring, and that most of us are spending it on things that give nothing back.
 
 The title is a provocation. The argument underneath it is a philosophy. And if you let it land, it might quietly rearrange the way you make every decision for the next decade.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-subtle-art-of-not-giving-a-fck.mp3" %}
 
 ## The Big Idea: You Do Not Have Infinite Fucks to Give
 
