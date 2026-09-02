@@ -18,7 +18,6 @@ alt: "A close-up of an antique brass thermostat being adjusted, symbolizing the 
 pin: true
 fallback:
 ---
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/secrets-of-the-millionaire-mind-by-t-harv-eker.mp3" %}
 
 I want to ask you a question that might sting a little, but I ask it because I have watched it play out in the lives of so many hardworking, brilliant people. 
 
@@ -33,6 +32,8 @@ T. Harv Eker’s *Secrets of the Millionaire Mind* is built around a single, tra
 If I could sit across the table from you right now, I would tell you to stop looking for another investment hack. Stop looking for the perfect side hustle. Before you try to change your outward results, you need to look at the invisible script running in the background of your mind. 
 
 Let me show you how that script was written, and more importantly, how you can rewrite it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/secrets-of-the-millionaire-mind-by-t-harv-eker.mp3" %}
 
 ## The Big Idea: Your Financial Thermostat
 
