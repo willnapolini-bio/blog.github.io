@@ -21,8 +21,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/atomic-habits-by-james-clear-summary.mp3" %}
-
 There is a quiet lie most of us tell ourselves, usually around January, usually after a failure, usually in the tired hours when we are trying to talk ourselves into trying again. The lie goes something like this: *If I could just make one big, decisive change, everything would finally be different.*
 
 So we overhaul our entire routine. We throw out the pantry. We sign the annual gym membership. We announce the transformation publicly, as though the announcement itself were progress. And for a week or two, it feels like momentum. Then the old patterns reassert themselves, quietly and completely, and we conclude that we simply lack the discipline. That we are not the kind of person who can sustain change.
@@ -40,6 +38,8 @@ Clear presents a simple piece of arithmetic to anchor the idea. If you improve b
 This is where most people give up. Clear calls it the "plateau of latent potential." You put in the work for days, weeks, sometimes months, and the visible results look flat. You are below the line where effort seems to matter. The temptation is to quit, because the gap between what you are doing and what you can see feels discouraging. But the work is not wasted. It is being stored. Like water heating in a pot, the temperature rises degree by degree with nothing visible happening until, suddenly, it boils. The boiling did not come from the last degree. It came from every degree before it.
 
 You are not failing because nothing has changed. You are in the part of the curve where the change is real but not yet visible.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/atomic-habits-by-james-clear-summary.mp3" %}
 
 ## The Story That Proves the Principle: British Cycling and the Aggregation of Marginal Gains
 
