@@ -2,7 +2,7 @@
 title: "Stop Trying to Do More: What *Smarter Faster Better* Teaches Us About the Architecture of Real Focus"
 description: >-
   Charles Duhigg’s *Smarter Faster Better* argues that true productivity isn't about grinding harder; it's about mastering how you think, choose, and focus. Here is a mentor’s guide to building a life of deep impact rather than frantic motion.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   productivity,
@@ -15,9 +15,12 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213598/smarter-faster-better-by-charles-duhigg_m0skou.png"
 alt: "A clean, minimalist wooden desk with a single open notebook and a fountain pen, symbolizing clarity, intention, and the architecture of deep focus"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/smarter-faster-better-by-charles-duhigg.mp3" %}
+
 
 I want to ask you about the weight of your to-do list. 
 
@@ -175,3 +178,5 @@ But you do not need to do it all. You only need to do the right things, with a c
 Stop trying to do more.
 Start choosing better.
 And watch how quickly the noise falls away.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
