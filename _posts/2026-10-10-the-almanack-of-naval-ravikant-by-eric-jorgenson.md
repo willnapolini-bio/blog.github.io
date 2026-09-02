@@ -2,7 +2,7 @@
 title: "The Almanack of Naval Ravikant Summary: The Blueprint for Wealth and Peace"
 description: >-
   Eric Jorgenson’s curation of Naval Ravikant’s wisdom reveals that wealth and happiness are not matters of luck, but learned skills. This summary explores how to build permissionless leverage, discover your specific knowledge, and cultivate a mind at peace.
-date: 2026-08-22 00:00:00 +00:00
+date: 2026-09-02 00:00:00 +00:00
 categories: [book-summaries, personal-development]
 tags: [
   naval-ravikant,
@@ -14,9 +14,10 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213640/the-almanack-of-naval-ravikant-by-eric-jorgenson_jj00kb.png"
 alt: "A minimalist wooden desk with a single open notebook and a pen, bathed in soft morning light"
-pin: false
+pin: true
 fallback:
 ---
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-almanack-of-naval-ravikant-summary.mp3" %}
 
 I used to believe there was a hidden tax on success. For a long time, I operated under the quiet assumption that if you wanted to build significant wealth, you had to sacrifice your peace of mind. The cultural narrative suggested that you could either be rich and stressed, or poor and happy, but you could not be both. 
 
@@ -134,3 +135,5 @@ We spend so much of our lives running on a treadmill, believing that if we just 
 True wealth is not the money in your bank account; it is the freedom in your calendar. And true happiness is not the absence of problems; it is the presence of peace. 
 
 You do not need to conquer the world to be successful. You only need to build a life that is authentically your own, create value for others, and cultivate a mind that is quiet enough to enjoy it. The skills are available. The leverage is waiting. The only thing left to do is begin.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
