@@ -2,7 +2,7 @@
 title: "Why You Never Feel Like You Have Enough — And How to Finally Stop"
 description: >-
   Michael Easter's *Scarcity Brain* reveals why modern abundance leaves us feeling perpetually lacking, and how an ancient survival mechanism now drives our anxiety, debt, and overconsumption. Here is how to break the scarcity loop and build a life that feels like enough.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   scarcity-mindset,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213575/scarcity-brain-by-michael-easter_btnqg2.png"
 alt: "A person standing at the edge of a vast, overflowing landscape, looking not at the abundance around them but at a single empty space ahead"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/scarcity-brain-by-michael-easter.mp3" %}
 
 You have more than any generation in human history.
 
@@ -172,3 +174,5 @@ Here. Now. With what is already in your hands.
 The roots were always deeper than you thought. You just kept looking at the branches, wondering why the tree still felt bare.
 
 Stop looking up. Look down. You have been standing on solid ground this entire time.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
