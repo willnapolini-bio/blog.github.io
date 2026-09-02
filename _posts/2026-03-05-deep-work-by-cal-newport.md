@@ -3,7 +3,7 @@ title: "The Quiet Advantage: Why Deep Focus is the Ultimate Superpower in a Dist
 description: >-
   Discover how mastering the rare and valuable skill of deep work can transform your career,
   protect your peace, and help you produce work that actually matters.
-date: 2026-08-14 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   deep-work,
@@ -14,9 +14,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213273/deep-work-by-cal-newport_edxz68.png"
 alt: "A focused craftsman working quietly in a sunlit, organized workshop"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/deep-work-by-cal-newport.mp3" %}
 
 I want to ask you about the last time you reached the end of a Tuesday feeling utterly exhausted, only to realize you had accomplished almost nothing of lasting value. 
 
@@ -192,3 +194,5 @@ You have the power to step away from the noise, close the door, and focus your m
 Take responsibility for your attention. Protect your focus. Trust the process of depth over the illusion of speed. 
 
 Because what you build in the quiet hours eventually echoes in the noisy world.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
