@@ -2,7 +2,7 @@
 title: "The Invisible Thermostat: Rewiring the Subconscious Script That Controls Your Wealth"
 description: >-
   T. Harv Eker's *Secrets of the Millionaire Mind* argues that your financial results are not determined by your knowledge or your work ethic, but by your subconscious "money blueprint." Here is a mentor's guide to identifying your invisible ceiling and building the psychological architecture required to sustain real wealth.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   wealth-building,
@@ -15,9 +15,10 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213575/secrets-of-the-millionaire-mind-by-t-harv-eker_daswyg.png"
 alt: "A close-up of an antique brass thermostat being adjusted, symbolizing the resetting of one's internal financial baseline"
-pin: false
+pin: true
 fallback:
 ---
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/secrets-of-the-millionaire-mind-by-t-harv-eker.mp3" %}
 
 I want to ask you a question that might sting a little, but I ask it because I have watched it play out in the lives of so many hardworking, brilliant people. 
 
@@ -177,3 +178,5 @@ You water the new action.
 You trust the new harvest.
 
 The wealth you are looking for is not hiding in the next market trend. It is waiting for you in the quiet, courageous moment you decide to finally upgrade your own mind. Go turn the dial.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
