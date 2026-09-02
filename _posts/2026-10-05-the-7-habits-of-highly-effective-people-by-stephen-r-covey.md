@@ -17,8 +17,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-7-habits-of-highly-effective-people.mp3" %}
-
 You have probably tried the productivity hacks. 
 
 You have downloaded the task managers, color-coded your calendar, and experimented with waking up at 5:00 AM. You have read the articles on how to optimize your morning routine and streamline your workflow. And yet, you may still find yourself at the end of a long week feeling exhausted, scattered, and quietly wondering if you are actually moving in the right direction.
@@ -32,6 +30,8 @@ But Stephen R. Covey’s masterpiece, *The 7 Habits of Highly Effective People*,
 This is not a book about how to get more done in less time. It is a book about how to become the kind of person who naturally attracts trust, creates meaningful results, and lives with profound integrity. 
 
 Here is what I have learned from this framework, and how you can use it to stop managing your symptoms and start transforming your life from the inside out.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-7-habits-of-highly-effective-people.mp3" %}
 
 ## The Big Idea: The Inside-Out Approach
 
