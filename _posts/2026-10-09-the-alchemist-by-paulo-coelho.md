@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-alchemist-by-paulo-coelho.mp3" %}
-
 There is a quiet tragedy that happens to most of us. It isn’t that we fail at our goals. It is that we slowly forget what our goals were supposed to be in the first place. 
 
 We trade our deepest desires for comfort. We compromise our curiosity for security. And then we spend the rest of our lives wondering why we feel a persistent, unexplainable emptiness. I have sat across the table from countless people who have achieved everything they thought they wanted, only to realize they were climbing a ladder leaned against the wrong wall.
@@ -27,6 +25,8 @@ We trade our deepest desires for comfort. We compromise our curiosity for securi
 If you are feeling that quiet pull toward something more, something truer, I want to share a story with you that changed the way I think about purpose. 
 
 Paulo Coelho’s *The Alchemist* is often dismissed as a simple fairy tale. But if you look closely, it is actually a profound manual for human potential. It is a book about the courage it takes to listen to your own heart, the danger of settling for a comfortable mediocrity, and the hidden mechanics of how a life of meaning is actually built.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-alchemist-by-paulo-coelho.mp3" %}
 
 ### The Big Idea: The Personal Legend
 
