@@ -3,7 +3,7 @@ title: "The Art of the Unseen Advantage: A Mentor’s Guide to 'Never Split the 
 description: >-
   Former FBI negotiator Chris Voss reveals that true negotiation is not about winning an argument, but about understanding the human behind the table. 
   Learn how to apply tactical empathy, calibrated questions, and the search for "Black Swans" to transform everyday conflicts into collaborative breakthroughs.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   chris-voss,
@@ -14,9 +14,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213501/never-split-the-difference-by-chris-voss_ener41.png"
 alt: "Two people sitting across a wooden table in soft, warm light, engaged in a deep, collaborative conversation."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/never-split-the-difference.mp3" %}
 
 If I could sit across the table from you, I would ask you a simple question: When was the last time you walked away from a difficult conversation feeling truly heard, rather than just defeated or exhausted?
 
@@ -175,3 +177,5 @@ Instead, take a breath, soften your voice, and offer a simple label:
 Then, stop talking. Give them the space to respond. 
 
 You will be amazed at what happens when you stop trying to fix the problem, and simply start honoring the person. True influence does not begin when you speak your truth. It begins the moment you make the other person feel safe enough to reveal theirs.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
