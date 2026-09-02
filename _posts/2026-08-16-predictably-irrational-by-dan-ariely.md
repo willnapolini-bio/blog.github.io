@@ -2,7 +2,7 @@
 title: "The Hidden Scripts of Choice: How to Stop Sabotaging Your Own Decisions"
 description: >-
   Discover the surprising truth behind your daily choices in Dan Ariely's Predictably Irrational. Learn how to outsmart your own cognitive biases and design a life that works with your human nature, not against it.
-date: 2026-08-19 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   dan-ariely,
@@ -14,9 +14,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213544/predictably-irrational-by-dan-ariely_wyvxr2.png"
 alt: "A maze drawn on a chalkboard with a piece of chalk resting at the entrance, symbolizing the hidden complexities of human decision-making."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/predictably-irrational-by-dan-ariely.mp3" %}
 
 Imagine you are sitting at a nice restaurant. You open the menu and see a steak priced at $45. It feels a bit steep, and you hesitate. But then your eyes drift up to the top of the page, where a massive, extravagant seafood tower is listed for $115. 
 
@@ -142,3 +144,5 @@ Introduce one layer of friction. Move the food to a high shelf in the garage. Go
 You are not a perfectly rational machine, and you never will be. But by understanding the predictable glitches in your own software, you can stop fighting yourself. You can start building a life where the easy choice is also the right choice. 
 
 Take a hard look at the invisible scripts running your decisions today. Introduce a little friction where you need it, remove the decoys that are distracting you, and remember: the most powerful decisions are not made by a perfect mind, but by a human one that finally understands its own design.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
