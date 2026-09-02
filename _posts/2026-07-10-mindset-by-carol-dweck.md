@@ -2,7 +2,7 @@
 title: "Mindset by Carol Dweck: The Hidden Belief That Dictates Your Potential"
 description: >-
   Discover the psychological switch that transforms how you view failure, talent, and resilience. This exploration of Carol Dweck's Mindset reveals why praising innate talent is dangerous and how to cultivate a true growth mindset.
-date: 2026-08-18 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   carol-dweck,
@@ -13,9 +13,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213480/mindset-by-carol-dweck_t7xspn.png"
 alt: "A small seedling pushing through dark, rich soil, symbolizing the continuous growth of human potential."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/mindset-by-carol-dweck.mp3" %}
 
 Imagine sitting across from a bright, capable child. They just finished a moderately difficult puzzle. You smile, look them in the eye, and say, "Wow, you are so smart!" 
 
@@ -127,3 +129,5 @@ Sign up for a free trial of a language app. Buy a cheap sketchbook and draw a te
 Do it poorly. Do it clumsily. Embrace the awkwardness of being a beginner.
 
 You cannot control the genetics you were born with, and you cannot change the environment you were raised in. But you have absolute authority over the meaning you assign to your struggles. The moment you realize your potential is not a fixed point on a map, but a horizon that moves as you walk toward it, you finally become free. The only true failure is the belief that you cannot grow.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
