@@ -18,8 +18,6 @@ alt: "A winding maze with paths branching in multiple directions, one path lit w
 pin: true
 fallback:
 ---
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-moved-my-cheese-by-spencer-johnson.m4a" %}
-
 
 Have you ever held tightly to something—a job, a relationship, a routine, a version of yourself—long after it stopped nourishing you? Not because you were foolish. Not because you lacked courage. But because it was familiar, and familiarity felt safer than stepping into a corridor where you could not yet see the walls?
 
@@ -28,6 +26,8 @@ I have. More than once. And I have watched people I care about do the same thing
 If that image stirs something in you, I want to talk about a very small book. Ninety-six pages. You could read it in an afternoon. And yet, since its publication in 1998, *Who Moved My Cheese?* by Spencer Johnson has reached tens of millions of readers for a reason. Not because it is complex. Because it names something true that most of us would rather not look at directly.
 
 And sometimes the simplest mirror is the one we need most.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/who-moved-my-cheese-by-spencer-johnson.m4a" %}
 
 ## The Big Idea, Stripped to the Bone
 
