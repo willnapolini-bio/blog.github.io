@@ -2,7 +2,7 @@
 title: "The Richest Man in Babylon: Why Saving 10% Changes Everything About Your Financial Life"
 description: >-
   George S. Clason's 1926 classic uses ancient Babylonian parables to teach timeless wealth-building principles. This summary distills the book's core ideas—paying yourself first, controlling spending, and letting money compound—into practical steps you can start today.
-date: 2026-08-27 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   financial-freedom,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213894/the-richest-man-in-babylon-by-george-s-clason_w6r6lv.png"
 alt: "Ancient Babylonian architecture symbolizing timeless principles of wealth building from The Richest Man in Babylon"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-richest-man-in-babylon-by-george-s-clason.mp3" %}
 
 There is a question I have heard asked in a hundred different ways, usually with a tired voice and a half-smile that is really a grimace: "I work hard. I've always worked hard. Why does the money still slip through my fingers?"
 
@@ -130,3 +132,5 @@ That decision, repeated every payday, is not a small thing. Over a year it is a 
 Arkad did not become the richest man in Babylon because he was smarter than everyone else. He became the richest man in Babylon because he started keeping a piece of what he earned, and he never stopped. The wall was not built in a day. But it was built. And it was built by a person who decided, on an ordinary day, to lay the first brick.
 
 Your first brick is waiting. Go lay it tonight.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
