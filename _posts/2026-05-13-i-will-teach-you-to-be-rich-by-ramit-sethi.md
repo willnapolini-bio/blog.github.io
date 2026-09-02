@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/i-will-teach-you-to-be-rich.mp3" %}
-
 Have you ever sat in a coffee shop, sipping a six-dollar latte, and felt a quiet, nagging guilt that you should be investing that money instead? 
 
 We have all heard the sermon. You know the one: *“If you just stopped buying a five-dollar coffee every day, you’d be a millionaire by retirement.”* It is the most repeated cliché in the history of personal finance, and it is almost entirely responsible for making millions of intelligent, hardworking people feel like failures.
@@ -28,6 +26,8 @@ We have all heard the sermon. You know the one: *“If you just stopped buying a
 If I could sit across the table from you right now, watching you calculate whether you can afford to add an extra shot of espresso to your cup, here is the first thing I would tell you: The financial industry profits from your guilt. They want you to feel bad about your daily habits so you will pay them to "fix" you. 
 
 But what if the problem isn’t your coffee? What if the problem is that you are playing a game with rules that were designed to keep you small, anxious, and perpetually dissatisfied?
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/i-will-teach-you-to-be-rich.mp3" %}
 
 ### The Big Idea: The End of Financial Deprivation
 
