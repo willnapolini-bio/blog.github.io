@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/think-and-grow-rich-by-napoleon-hill.mp3" %}
-
 Have you ever noticed how some people seem to bend circumstances to their will, while others are constantly bent by circumstances? 
 
 You watch them build a business, navigate a crisis, or create wealth, and you wonder what invisible advantage they possess. You look at your own life—the effort you put in, the late nights, the sacrifices—and you wonder why the results do not seem to match the input. You work hard. You are smart. You want a better life. So why does the gap between where you are and where you want to be feel so impossibly wide?
@@ -34,6 +32,8 @@ Nearly a century ago, a man named Napoleon Hill published a book that attempted 
 What he found was not a secret stock tip. It was not a shortcut. It was a psychological framework. And while the language of the book is unmistakably from 1937, the mechanics of human achievement it describes have not aged a day. 
 
 Here is what I have learned from studying Hill’s work, and here is how you can use it to stop drifting and start building.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/think-and-grow-rich-by-napoleon-hill.mp3" %}
 
 ## The Big Idea: Thoughts Are Things
 
