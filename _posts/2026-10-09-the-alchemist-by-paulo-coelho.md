@@ -2,7 +2,7 @@
 title: "The Alchemist Summary: How to Find Your Purpose and Trust the Journey"
 description: >-
   Paulo Coelho’s modern classic is more than a fable about buried treasure; it is a profound guide to discovering your true purpose. This summary explores how to overcome the fear of change, recognize the signs pointing you forward, and embrace the personal transformation required to build a meaningful life.
-date: 2026-08-22 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   paulo-coelho,
@@ -17,6 +17,8 @@ alt: "A lone shepherd walking across a vast desert landscape under a starry nigh
 pin: false
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-alchemist-by-paulo-coelho.mp3" %}
 
 There is a quiet tragedy that happens to most of us. It isn’t that we fail at our goals. It is that we slowly forget what our goals were supposed to be in the first place. 
 
@@ -140,3 +142,5 @@ We spend so much of our lives looking for the treasure at the end of the road, b
 Every difficult conversation, every late night of study, every moment of doubt you push through—these are not delays. They are the fire that burns away your impurities. They are the process of turning the lead of your potential into the gold of your character.
 
 You were not built to simply survive the desert. You were built to discover what lies on the other side of it.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
