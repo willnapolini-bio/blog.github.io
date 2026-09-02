@@ -20,8 +20,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/super-thinking.mp3" %}
-
 Have you ever watched someone solve a complex problem with an ease that made you feel quietly inadequate? 
 
 You are staring at a mess of conflicting data, a tangled interpersonal conflict, or a strategic roadblock at work, feeling entirely overwhelmed. Then someone else walks into the room, looks at the exact same mess, asks two simple questions, and suddenly the path forward is obvious. 
@@ -37,6 +35,8 @@ Gabriel Weinberg, the founder and CEO of DuckDuckGo, and his wife Lauren McCann 
 Their central argument is profoundly liberating: you do not need to be a genius to make brilliant decisions. You just need to understand the big ideas from the big disciplines, and you need to know when to apply them. 
 
 Let me show you how to build that toolkit, and why it might be the most important investment you make in your own mind.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/super-thinking.mp3" %}
 
 ## The Big Idea: The Latticework of Mental Models
 
