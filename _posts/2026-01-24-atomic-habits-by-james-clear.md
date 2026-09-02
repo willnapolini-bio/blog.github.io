@@ -17,7 +17,7 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213204/atomic-habits-by-james-clear_m9pgvv.png"
 alt: "A single seedling pushing through soil, representing the compounding power of small daily habits"
-pin: false
+pin: true
 fallback:
 ---
 
