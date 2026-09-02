@@ -2,7 +2,7 @@
 title: "The E-Myth Revisited by Michael E. Gerber: Why Knowing How to Do the Work Is the Exact Reason Your Business Is Failing"
 description: >-
   Michael Gerber’s modern classic dismantles the myth of the solo founder and reveals why most small businesses are just poorly paying jobs in disguise. This article explores how to transition from an exhausted Technician to a true Architect, building a system that creates freedom instead of a prison.
-date: 2026-08-23 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   systems-thinking,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213714/the-e-myth-revisited-by-michael-e-gerber_r0opg4.png"
 alt: "A blueprint spread out on a wooden workbench next to a set of well-worn hand tools, symbolizing the shift from doing the work to designing the system."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-e-myth-revisited.mp3" %}
 
 Imagine waking up at three in the morning. Your back aches. Your mind is racing. You are staring at the ceiling, doing the mental math of payroll, rent, and a client who just refused to pay an invoice. You started this venture because you loved the craft. You loved the freedom. You wanted to be your own boss. But as you lie there in the dark, a quiet, terrifying realization creeps in: you did not build a business. You just bought yourself a terrible, low-paying job with a crazy boss. 
 
@@ -138,3 +140,5 @@ You do not have to live in the cage forever. You can build the door. You can for
 The work is waiting. But the real work is not doing the thing. The real work is building the system that does the thing. 
 
 Start building.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
