@@ -2,7 +2,7 @@
 title: "The 7 Habits of Highly Effective People Summary: How to Build a Life of Purpose and True Effectiveness"
 description: >-
   Discover how shifting from superficial productivity hacks to deep, principle-centered habits can transform your career, relationships, and inner peace.
-date: 2026-08-22 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   productivity,
@@ -13,9 +13,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213627/the-7-habits-of-highly-effective-people-by-stephen-r-covey_mchygy.png"
 alt: "A sturdy compass resting on a worn wooden map, symbolizing principle-centered direction over mere speed"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-7-habits-of-highly-effective-people.mp3" %}
 
 You have probably tried the productivity hacks. 
 
@@ -186,3 +188,5 @@ But the deepest lesson of *The 7 Habits of Highly Effective People* is that true
 Your character is not built in the grand, dramatic moments of crisis. It is forged in the quiet, unobserved choices of an ordinary Tuesday. 
 
 Stop trying to manage the symptoms of a misaligned life. Start building from the inside out. The world is waiting for the person you are capable of becoming.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
