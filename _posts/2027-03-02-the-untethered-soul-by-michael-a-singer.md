@@ -11,8 +11,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-untethered-soul-by-michael-a-singer.mp3" %}
-
 Imagine you are trying to have a quiet, meaningful conversation with someone you care about, but there is a third person in the room who will not stop talking. This person critiques everything you say, worries about what might go wrong, replays old arguments, and constantly demands your attention. 
 
 If this happened in real life, you would likely ask this person to leave. Yet, most of us allow this exact dynamic to play out inside our own minds every single day. 
@@ -25,7 +23,7 @@ Michael A. Singer’s *The Untethered Soul* is not merely a book about feeling b
 
 You do not need to silence your mind to find peace. You simply need to change your relationship with it.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-untethered-soul-by-michael-a-singer.mp3" %}
 
 ### The Big Idea: The Witness and the Flow
 
