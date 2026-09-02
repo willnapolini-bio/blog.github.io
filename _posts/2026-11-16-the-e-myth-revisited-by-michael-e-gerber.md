@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-e-myth-revisited.mp3" %}
-
 Imagine waking up at three in the morning. Your back aches. Your mind is racing. You are staring at the ceiling, doing the mental math of payroll, rent, and a client who just refused to pay an invoice. You started this venture because you loved the craft. You loved the freedom. You wanted to be your own boss. But as you lie there in the dark, a quiet, terrifying realization creeps in: you did not build a business. You just bought yourself a terrible, low-paying job with a crazy boss. 
 
 And the crazy boss is you.
@@ -36,6 +34,8 @@ So they leave. They open a shop. They start an agency. They launch a freelance p
 They do not. And that confusion is the root of almost every burnout, bankruptcy, and quiet misery in the world of small enterprise.
 
 Let us walk through the architecture of this trap, and more importantly, how to build your way out of it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-e-myth-revisited.mp3" %}
 
 ## The War Inside Your Head
 
