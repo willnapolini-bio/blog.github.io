@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-body-keeps-the-score.mp3" %}
-
 There is a question I have heard people ask themselves in a hundred different ways, and it always sounds something like this: *Why can't I just get over it?*
 
 You know the event is in the past. You can describe it clearly, even logically. You understand, intellectually, that you are no longer in danger. And yet something in your chest tightens when you hear a certain tone of voice. Your shoulders climb toward your ears in a crowded room. A smell, a season, the angle of light through a window — and suddenly you are not where you are. You are somewhere else, some*when* else, and your body is reacting as though the threat is happening right now.
@@ -30,6 +28,8 @@ If that sounds familiar, I want you to hear something before we go any further. 
 What you are experiencing has a name, a mechanism, and — this is the part that matters most — a path forward. Bessel van der Kolk spent decades studying that path, and he laid it out in a book called *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. It is one of the most important books written on human suffering and recovery, and I want to walk you through its central ideas in a way that meets you where you actually are.
 
 Not in a clinic. Not in a lecture hall. Just here, across the table, where we can talk honestly.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-body-keeps-the-score.mp3" %}
 
 ## The Idea That Changes Everything
 
