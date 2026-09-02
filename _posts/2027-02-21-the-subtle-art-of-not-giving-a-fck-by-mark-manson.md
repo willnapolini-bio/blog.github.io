@@ -2,7 +2,7 @@
 title: "The Subtle Art of Not Giving a F*ck: Why Caring Less Is the Most Honest Path to Caring More"
 description: >-
   Mark Manson's The Subtle Art of Not Giving a F*ck argues that a good life is not built by caring about everything but by choosing, deliberately and ruthlessly, the few things worth your limited attention. Here is what that looks like in practice.
-date: 2026-08-27 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   values-and-priorities,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213909/the-subtle-art-of-not-giving-a-fck-by-mark-manson_ywggzm.png"
 alt: "A single candle burning steadily in a dark room while dozens of unlit candles surround it, symbolizing the choice to care about one thing deeply"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-subtle-art-of-not-giving-a-fck.mp3" %}
 
 You are exhausted. Not because your life is empty, but because it is too full. Too many opinions to weigh. Too many comparisons to survive scrolling past. Too many problems that feel urgent because someone on the internet said they should be. Too many versions of a "good life" competing for your attention, each one insisting that you are one purchase, one promotion, one morning routine away from finally being enough.
 
@@ -140,3 +142,5 @@ You owe yourself one choice, made clearly, about what matters. And then the pati
 Pick your thing. Carry it. Let the rest go.
 
 The world will not end. And you might, for the first time in a long while, hear yourself think.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
