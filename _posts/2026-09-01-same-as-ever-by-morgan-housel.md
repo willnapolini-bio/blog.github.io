@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/same-as-ever-by-morgan-housel.mp3" %}
-
 I want to show you an idea that might fundamentally change how you look at the uncertainty in your life. 
 
 We spend an enormous amount of energy trying to predict what will happen next. We forecast the economy, we guess what our competitors will do, and we try to map out the exact trajectory of our careers and relationships. We crave certainty. We want to know exactly where the ground will be tomorrow so we can position our feet safely today.
@@ -28,6 +26,8 @@ We spend an enormous amount of energy trying to predict what will happen next. W
 But what if the secret to navigating an unpredictable world has nothing to do with seeing the future, and everything to do with understanding what never changes?
 
 If I could sit across the table from you right now, I would tell you to stop trying to read the crystal ball. The future is a fog of variables, entirely impossible to forecast with precision. But human nature? Human nature is carved in stone. 
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/same-as-ever-by-morgan-housel.mp3" %}
 
 ## The Big Idea
 
