@@ -2,7 +2,7 @@
 title: "The Psychology of Money: Why Your Behavior Matters More Than Your Intelligence"
 description: >-
   Morgan Housel's The Psychology of Money reveals that financial success depends far less on what you know and far more on how you behave. This summary unpacks the book's most powerful principles and shows you how to apply them starting today.
-date: 2026-08-26 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   psychology-of-money,
@@ -16,9 +16,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213876/the-psychology-of-money-by-morgan-housel_u98rkn.png"
 alt: "A person sitting quietly at a kitchen table, looking thoughtfully at a simple notebook and a cup of coffee, representing calm and intentional thinking about money"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-psychology-of-money-by-morgan-housel.mp3" %}
 
 There is a quiet lie most of us carry about money, and it goes something like this: *If I just knew more—if I understood the right strategy, found the right investment, read the right book—then I would finally be okay.*
 
@@ -155,3 +157,5 @@ You do not need to be the smartest person in the room. You do not need to predic
 A small decision becomes a direction, and a direction held long enough becomes a life. You do not have to get it perfect. You just have to get started, and then stay.
 
 The next small step is yours. Take it before the coffee gets cold.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
