@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/effortless-by-greg-mckeown.mp3" %}
-
 I want to ask you a question that might make you slightly uncomfortable. How much of your current exhaustion comes from doing the wrong things, and how much comes from doing the right things in the hardest possible way?
 
 For years, I believed a dangerous lie. I believed that if something mattered, it had to be difficult. I believed that if I wasn't suffering, I wasn't trying hard enough. I thought the measure of my dedication was the amount of friction I was willing to endure. 
@@ -28,6 +26,8 @@ For years, I believed a dangerous lie. I believed that if something mattered, it
 You may have already done the hard work of figuring out what actually matters. You may have cleared away the trivial distractions and committed yourself to the essential. But if you are still running on fumes, still dreading the morning, still feeling like every meaningful achievement requires a pound of your flesh—then you have hit the ceiling of the "hustle" mindset.
 
 Greg McKeown’s *Effortless: Make It Easier to Do What Matters Most* is a quiet rebellion against the cult of struggle. It is the necessary companion to his previous work, *Essentialism*. If *Essentialism* is about doing the right things, *Effortless* is about doing them in the right way. And it argues, with profound clarity, that the assumption that meaningful work must be grueling is not just false. It is the very thing keeping you from the life you are trying to build.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/effortless-by-greg-mckeown.mp3" %}
 
 ## The Big Idea
 
