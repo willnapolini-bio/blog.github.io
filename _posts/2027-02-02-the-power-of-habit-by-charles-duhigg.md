@@ -2,7 +2,7 @@
 title: "The Power of Habit: How One Loop Controls Your Life and How to Rewire It"
 description: >-
   Charles Duhigg's "The Power of Habit" reveals the neurological loop behind every habit you have—and shows you how to redesign that loop to change your behavior, your work, and your life without relying on willpower alone.
-date: 2026-08-26 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   habit-formation,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213861/the-power-of-habit-by-charles-duhigg_advwei.png"
 alt: "A winding path through a forest, symbolizing the neural pathways of habit formation and the possibility of forging new routes"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-power-of-habit-by-charles-duhigg.mp3" %}
 
 You have probably tried to change something about yourself more than once. Maybe you set an alarm to run at 6 a.m. and hit snooze for nine consecutive mornings. Maybe you swore you would stop checking your phone during dinner and felt it vibrating in your pocket before the salad arrived. Maybe you swore January 1st would be different, and by January 14th, the old rhythm had swallowed the new intention whole.
 
@@ -150,3 +152,5 @@ You let time and repetition build the rest.
 The life you want is not waiting on the other side of a dramatic transformation. It is waiting on the other side of one small, honest adjustment you make this afternoon—and then make again tomorrow. The door is not locked. It never was. You just needed to see where the handle was.
 
 Now reach for it.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
