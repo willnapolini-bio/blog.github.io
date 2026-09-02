@@ -4,7 +4,7 @@ description: >-
   Atomic Habits reveals how small, consistent shifts in behavior compound into
   remarkable transformation. This summary breaks down James Clear's core framework
   and shows you exactly how to put it into practice starting today.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   habits,
@@ -20,6 +20,8 @@ alt: "A single seedling pushing through soil, representing the compounding power
 pin: false
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/atomic-habits-by-james-clear-summary.mp3" %}
 
 There is a quiet lie most of us tell ourselves, usually around January, usually after a failure, usually in the tired hours when we are trying to talk ourselves into trying again. The lie goes something like this: *If I could just make one big, decisive change, everything would finally be different.*
 
@@ -144,3 +146,5 @@ Then do it tomorrow. And the day after. And let the compounding do what compound
 You are not waiting to become someone new before you begin. You begin, and in the beginning, you become. Every small repetition is a quiet act of self-authorship, a single brick laid in a structure you will not fully see for months or years. But the structure is rising. It is rising today, in the smallest, most ordinary choice you make next.
 
 Lay the brick. Then lay another. The cathedral takes care of itself.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
