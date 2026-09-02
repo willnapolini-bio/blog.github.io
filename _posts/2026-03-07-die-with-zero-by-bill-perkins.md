@@ -17,7 +17,6 @@ alt: "An hourglass resting on a wooden table, with the sand inside glowing like 
 pin: true
 fallback:
 ---
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/die-with-zero-by-bill-perkins.mp3" %}
 
 Imagine you are at the very end of your life. You are sitting in a quiet room, looking back on the decades. A nurse or a lawyer walks in and hands you your final bank statement. You look down and see a balance of three million dollars. 
 
@@ -31,7 +30,7 @@ This is the uncomfortable, liberating premise of *Die With Zero* by Bill Perkins
 
 Money is merely a tool to acquire those experiences. If you optimize for the scoreboard instead of the game, you lose.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/die-with-zero-by-bill-perkins.mp3" %}
 
 ## The Big Idea: Money is Stored Life Energy
 
