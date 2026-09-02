@@ -17,8 +17,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/meditations-by-marcus-aurelius.mp3" %}
-
 There is a profound irony in the way most of us seek peace. We imagine that tranquility is a destination we will finally reach once the storm passes. We tell ourselves, *“I will be calm when the project launches. I will be at peace when the bank account is full. I will relax when the kids are grown or the market stabilizes.”*
 
 But if I have learned one undeniable truth from studying the lives of those who navigated immense suffering, it is this: the storm never truly passes. The weather of life simply changes forms. 
@@ -28,6 +26,8 @@ If you are waiting for the world to become quiet before you allow yourself to be
 Two thousand years ago, a man who possessed more absolute power, wealth, and responsibility than almost anyone in human history sat in a freezing, mud-soaked military tent on the edge of the known world. He was exhausted. His empire was being torn apart by betrayal, a devastating plague was wiping out his citizens, and endless wars threatened to collapse his borders. Yet, in the flickering candlelight, he did not write a manifesto on how to conquer his enemies. He wrote a private journal on how to conquer himself.
 
 That man was Marcus Aurelius, Emperor of Rome. And his private journal is known to us today as *Meditations*. 
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/meditations-by-marcus-aurelius.mp3" %}
 
 ## The Big Idea
 
