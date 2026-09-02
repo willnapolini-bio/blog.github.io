@@ -3,7 +3,7 @@ title: "I Will Teach You to Be Rich: The Art of Designing a Life You Actually Wa
 description: >-
   Ramit Sethi dismantles the guilt-driven rules of traditional personal finance. 
   Discover how to define your own "Rich Life," master the psychology of money, and build a system that builds wealth while you sleep.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   ramit-sethi,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213399/i-will-teach-you-to-be-rich-by-ramit-sethi_xvlcme.png"
 alt: "A conceptual image representing a beautifully designed, intentional life balanced with automated financial growth"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/i-will-teach-you-to-be-rich.mp3" %}
 
 Have you ever sat in a coffee shop, sipping a six-dollar latte, and felt a quiet, nagging guilt that you should be investing that money instead? 
 
@@ -126,3 +128,5 @@ Then, close your mouth and wait. Let the silence do the heavy lifting.
 Watch how easily the system bends when you simply ask. In that single, five-minute phone call, you will realize that the rules of money are not made of stone; they are made of paper, and you have the power to rewrite them.
 
 *The world does not reward the people who hoard their pennies in fear; it rewards the people who design their lives with intention, and build the systems to sustain them.*
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
