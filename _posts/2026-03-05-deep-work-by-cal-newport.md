@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/deep-work-by-cal-newport.mp3" %}
-
 I want to ask you about the last time you reached the end of a Tuesday feeling utterly exhausted, only to realize you had accomplished almost nothing of lasting value. 
 
 You know the feeling. You arrived at your desk with a clear intention. But then the inbox demanded attention. A colleague stopped by with an "urgent" question. Your phone buzzed with a notification you felt compelled to check. You spent the next eight hours putting out small fires, answering messages, and attending meetings. When you finally closed your laptop, you were drained. You were busy. But you were not effective. 
@@ -29,6 +27,8 @@ There is a dangerous assumption hiding inside the way most of us think about suc
 If I could sit across the table from you right now, I would tell you that the problem is not your work ethic. You are likely working harder than ever. The problem is the environment you are working in, and more importantly, the way you are allowing that environment to fracture your mind. 
 
 What you need is not another productivity hack or a louder motivational speech. You need a fundamental shift in how you value your own attention. You need to understand the concept of Deep Work.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/deep-work-by-cal-newport.mp3" %}
 
 ## The Big Idea: The Deep Work Hypothesis
 
