@@ -17,8 +17,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/mindset-by-carol-dweck.mp3" %}
-
 Imagine sitting across from a bright, capable child. They just finished a moderately difficult puzzle. You smile, look them in the eye, and say, "Wow, you are so smart!" 
 
 You think you are building their confidence. You think you are giving them the armor they need to face a harsh world. But decades of rigorous psychological research proved something shocking: by calling them smart, you might actually be breaking their resilience.
@@ -26,6 +24,8 @@ You think you are building their confidence. You think you are giving them the a
 I have sat with brilliant, highly successful adults who were entirely paralyzed by the fear of looking foolish. They had built towering careers on the foundation of being "the smart one" or "the natural," but the moment they faced a challenge that didn't come easily, their internal world collapsed. They didn't see a difficult problem; they saw a verdict on their soul.
 
 If you have ever avoided a challenge because you were afraid of failing, or if you have watched someone you love give up the moment things got hard, you are dealing with the invisible architecture of the mind. You are dealing with the concept of the mindset.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/mindset-by-carol-dweck.mp3" %}
 
 ## The Big Idea
 
