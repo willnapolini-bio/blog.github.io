@@ -20,8 +20,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/feel-good-productivity-by-ali-abdaal.mp3" %}
-
 There is a quiet lie most of us carry around about getting things done. It goes something like this: *If I could just discipline myself harder, push through the resistance, white-knuckle my way past the discomfort—then finally I would be productive. Then finally I would feel proud of my days.*
 
 And so you grind. You set punishing alarms. You make lists so long they feel like indictments. You call yourself lazy on the days you stall, as though naming the problem will solve it.
@@ -31,6 +29,8 @@ Then you burn out. You rest just long enough to feel guilty about resting. And t
 I have watched this pattern play out in so many lives—sometimes in my own—and what strikes me most is how unnecessary the suffering is. Not the effort. Effort is real, and meaningful work is often hard. But the *suffering*—the sense that you must punish yourself into progress—that is optional. And more than optional: it is counterproductive.
 
 Ali Abdaal's *Feel-Good Productivity* is built on that exact insight, and I think it is one of the most useful reframe a person can encounter. Let me walk you through what the book actually teaches, why it works, and what you can do with it starting today.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/feel-good-productivity-by-ali-abdaal.mp3" %}
 
 ## The Central Idea: You Don't Need More Discipline. You Need More Energy.
 
