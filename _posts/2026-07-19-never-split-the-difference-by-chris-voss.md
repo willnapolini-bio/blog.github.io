@@ -18,7 +18,7 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/never-split-the-difference.mp3" %}
+
 
 If I could sit across the table from you, I would ask you a simple question: When was the last time you walked away from a difficult conversation feeling truly heard, rather than just defeated or exhausted?
 
@@ -32,13 +32,13 @@ I am not here to teach you how to manipulate people. Manipulation is a short-ter
 
 Let us look at what it truly means to negotiate as if your life depends on it, and why that mindset will actually make your life much more peaceful.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/never-split-the-difference.mp3" %}
 
 ### The Big Idea: The Illusion of Compromise
 
 The central thesis of this book is both counterintuitive and profoundly liberating: **Negotiation is not about winning an argument; it is a process of collaborative discovery.**
 
-The title itself is a warning. Voss uses the analogy of shoe color. If you and your counterpart decide to "split the difference" on what shoes to wear, you both end up with one black shoe and one brown shoe. You both look ridiculous. Compromise is often just a lazy way to avoid the hard work of finding a solution that actually satisfies both parties' underlying needs.
+The title itself is a warning. Voss uses the analogy of shoe color. If you and your counterpart decide to "split the difference" on what shoes to wear, you both end up with one black shoe and one brown shoe. You both look ridiculous. Compromise is often just a lazy way to avoid the hard work of finng a solution that actually satisfies both parties' underlying needs.
 
 Instead of compromising, Voss teaches us to seek a "That's Right" moment—a breakthrough of genuine understanding that disarms defensiveness and opens the door to creative solutions. This requires shifting your focus from what you want to say, to what the other person needs to feel. 
 
