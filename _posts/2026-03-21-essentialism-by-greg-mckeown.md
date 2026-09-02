@@ -21,8 +21,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/essentialism-by-greg-mckeown.mp3" %}
-
 You have probably felt it. That slow, quiet exhaustion of saying yes to so many things that you no longer remember which ones you actually chose. Your calendar is full. Your task list keeps growing. You are busy from morning until night. And yet, at the end of the week, you look back and wonder: *Did any of that actually move me toward what matters?*
 
 If that question stings, I want you to sit with it for a moment. Because the discomfort it creates is not a sign of failure. It is a signal. It means something in your life has become cluttered with obligations that do not belong there, and you are paying for that clutter with the one resource you can never earn back: your attention.
@@ -44,6 +42,8 @@ McKeown challenges that assumption directly. He argues that the undisciplined pu
 The Essentialist, as he defines the term, does not simply do fewer things. The Essentialist makes a disciplined, ongoing practice of asking: *Is this the very most important thing I should be doing with my time and energy right now?* And if the answer is not a clear yes, the Essentialist treats it as a no.
 
 That last part is where the book becomes genuinely challenging. Because most of us do not operate with clear yeses and clear nos. We operate in a fog of "maybe" and "I suppose" and "I probably should." And that fog is where our lives quietly fill up with things we never truly wanted.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/essentialism-by-greg-mckeown.mp3" %}
 
 ## The Trade-Off You Cannot Avoid
 
