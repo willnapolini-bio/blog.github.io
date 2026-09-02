@@ -18,8 +18,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/cant-hurt-me-by-david-goggins.mp3" %}
-
 There is a specific, quiet moment that happens to all of us. It happens on the treadmill when your lungs burn. It happens at your desk when the project seems too vast and your energy is too low. It happens in the mirror when you look at your life and realize it is not what you hoped it would be.
 
 In that moment, a voice inside your head speaks up. It sounds reasonable. It sounds protective. It says, *“You’ve done enough. You can stop now. It’s okay to quit.”*
@@ -32,7 +30,7 @@ David Goggins built an entire life around proving that the voice in your head is
 
 If you have ever felt that you are capable of more but cannot seem to bridge the gap between your intentions and your actions, I want to sit across from you and unpack what Goggins has learned. Because beneath the extreme ultramarathons and the military records, there is a deeply practical, profoundly hopeful message about what it means to take absolute ownership of your life.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/cant-hurt-me-by-david-goggins.mp3" %}
 
 ## The Big Idea: You Are Living in the Shallow End of Your Potential
 
