@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/scarcity-brain-by-michael-easter.mp3" %}
-
 You have more than any generation in human history.
 
 More food in your kitchen than most kings of the past could have imagined. More information at your fingertips than the greatest libraries of antiquity held. More comfort, more entertainment, more safety, more connection, more *stuff* piled in closets and drawers and storage units you pay monthly fees to maintain.
@@ -32,6 +30,8 @@ And yet you lie awake at two in the morning feeling like something is missing. L
 I want to show you why that feeling exists. Not because you are broken. Not because you are ungrateful. But because you are running ancient software in a world it was never designed to handle.
 
 The book that explains this better than anything I have encountered is *Scarcity Brain* by Michael Easter. And its central argument, once you see it, will change the way you understand almost every anxious, restless, compulsive behavior you have ever had.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/scarcity-brain-by-michael-easter.mp3" %}
 
 ## The Big Idea: Your Brain Was Built for a World That No Longer Exists
 
