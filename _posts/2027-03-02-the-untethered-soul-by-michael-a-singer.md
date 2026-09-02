@@ -2,14 +2,16 @@
 title: "The Untethered Soul: How to Stop Fighting Your Own Mind and Find Lasting Peace"
 description: >-
   A mentor's guide to Michael A. Singer's transformative book, revealing how to disidentify from your inner chatter, release stored pain, and keep your heart open to the flow of life.
-date: 2026-08-27 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [mindfulness, inner-peace, michael-a-singer, spiritual-growth, letting-go, emotional-freedom]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213921/the-untethered-soul-by-michael-a-singer_ill4sl.png"
 alt: "A serene, open landscape representing inner freedom and the untethered soul"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-untethered-soul-by-michael-a-singer.mp3" %}
 
 Imagine you are trying to have a quiet, meaningful conversation with someone you care about, but there is a third person in the room who will not stop talking. This person critiques everything you say, worries about what might go wrong, replays old arguments, and constantly demands your attention. 
 
@@ -130,3 +132,5 @@ Then, return to what you were doing.
 You start small. You stay consistent. You let time do its work. 
 
 A small decision becomes a direction, and a direction repeated long enough becomes a life. The door to your inner freedom is not locked. It is only waiting for you to stop pushing against it, and simply walk through.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
