@@ -2,7 +2,7 @@
 title: "Four Thousand Weeks by Oliver Burkeman: Why You Will Never Get Everything Done (And Why That Is Good News)"
 description: >-
   Oliver Burkeman’s *Four Thousand Weeks* dismantles the modern obsession with productivity. Instead of offering another system to clear your inbox, it offers a profound, liberating truth: your time is finite, and learning what to neglect is the only real time management.
-date: 2026-08-15 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   oliver-burkeman,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213330/four-thousand-weeks-by-oliver-burkeman_iqkrgn.png"
 alt: "An hourglass resting on a wooden desk, the sand almost run out, with a warm slant of late-afternoon sunlight"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/four-thousand-weeks-by-oliver-burkeman.mp3" %}
 
 Let us do a little math. It is the kind of math that changes the way you breathe.
 
@@ -118,3 +120,5 @@ Feel the slight spike of anxiety that arises, and then feel the quiet space that
 You just bought back a piece of your life. You just honored your finitude. 
 
 You only have four thousand weeks. Stop trying to fit the universe into them. Choose your few beautiful things, let the rest fall away, and step fully into the time you actually have.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
