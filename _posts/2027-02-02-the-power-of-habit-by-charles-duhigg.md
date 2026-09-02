@@ -19,8 +19,6 @@ pin: true
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-power-of-habit-by-charles-duhigg.mp3" %}
-
 You have probably tried to change something about yourself more than once. Maybe you set an alarm to run at 6 a.m. and hit snooze for nine consecutive mornings. Maybe you swore you would stop checking your phone during dinner and felt it vibrating in your pocket before the salad arrived. Maybe you swore January 1st would be different, and by January 14th, the old rhythm had swallowed the new intention whole.
 
 Here is what I want you to hear before we go further: that pattern does not mean you are weak. It does not mean you lack discipline. What it usually means is that you have been trying to fight a system without understanding how the system works.
@@ -28,6 +26,8 @@ Here is what I want you to hear before we go further: that pattern does not mean
 Charles Duhigg spent years researching the neuroscience, psychology, and sociology of habit formation, and what he assembled in *The Power of Habit* is not another pep talk. It is a blueprint. He shows you the machinery running underneath your choices—the machinery you never see because it was designed to operate invisibly—and then hands you the wrench.
 
 If you have ever wondered why change feels so brutal and why old patterns snap back like a stretched rubber band, this book answers the question with precision. And more importantly, it shows you where to place your hands to bend the pattern in a new direction.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-power-of-habit-by-charles-duhigg.mp3" %}
 
 ## The Big Idea: You Are Running on Autopilot, and That Is Both the Problem and the Solution
 
