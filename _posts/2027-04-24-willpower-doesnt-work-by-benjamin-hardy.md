@@ -20,7 +20,7 @@ pin: false
 fallback:
 ---
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/willpower-doesnt-work-by-benjamin-hardy.m4a" %}
+
 
 I want you to picture the last time you tried to change something through sheer force of intention. Maybe it was a diet that lasted eleven days. Maybe it was the alarm you set for 5:30 a.m., silenced four times before you finally dragged yourself upright, already feeling defeated before your feet touched the floor. Maybe it was the promise to write, to exercise, to stop scrolling, to be patient with your children, to finally start the project you keep describing to friends as "something I'm working on."
 
@@ -31,6 +31,8 @@ And you told yourself the familiar sentence: *I just don't have enough disciplin
 What if that sentence is wrong? Not partially wrong. Fundamentally wrong. What if the problem was never your character, your commitment, or your capacity for suffering? What if the problem was that you were trying to swim upstream in a river you never thought to redirect?
 
 That is the question Benjamin Hardy asks in *Willpower Doesn't Work*, and I think it is one of the most liberating questions a person can encounter.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/willpower-doesnt-work-by-benjamin-hardy.m4a" %}
 
 ## The Big Idea: Stop Wrestling Yourself and Start Building the Room
 
