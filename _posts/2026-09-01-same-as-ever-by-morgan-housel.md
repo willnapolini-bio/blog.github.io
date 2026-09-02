@@ -4,7 +4,7 @@ description: >-
   Morgan Housel’s Same as Ever teaches that while we cannot predict the future,
   we can master the timeless patterns of human behavior. Discover the principles
   that never change and how to use them to build a resilient, fulfilling life.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   morgan-housel,
@@ -15,9 +15,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213565/same-as-ever-by-morgan-housel_xq1myv.png"
 alt: "A conceptual illustration of a sturdy tree standing firm amidst a changing landscape, representing timeless principles."
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/same-as-ever-by-morgan-housel.mp3" %}
 
 I want to show you an idea that might fundamentally change how you look at the uncertainty in your life. 
 
@@ -143,3 +145,5 @@ Tonight, before you go to sleep, think of one expectation you currently hold tha
 The world will always be noisy, unpredictable, and entirely out of your control. But your mind is a fortress you can defend.
 
 *You cannot command the changing tides of the world, but you can always choose the depth of your anchor.*
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
