@@ -2,7 +2,7 @@
 title: "The Mountain Is You: Why the Greatest Obstacle in Your Path Is the Person Blocking It"
 description: >-
   Brianna Wiest’s The Mountain Is You reveals that self-sabotage is not a character flaw, but a subconscious shield. Here is how to dismantle your own resistance and finally master the climb.
-date: 2026-08-26 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   self-sabotage,
@@ -14,9 +14,11 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213834/the-mountain-is-you-by-brianna-wiest_gozleu.png"
 alt: "A solitary hiker standing at the base of a steep, misty mountain trail, looking upward"
-pin: false
+pin: true
 fallback:
 ---
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-mountain-is-you-by-brianna-wiest.mp3" %}
 
 You know exactly what you need to do. You have the plan, the tools, and the desire. You have read the books, bought the planners, and made the late-night promises to yourself. Yet, every time you get close to the summit—every time the business is about to launch, the relationship is about to deepen, or the healthy habit is about to stick—you trip over your own feet.
 
@@ -148,3 +150,5 @@ You are not trying to be perfect. You are simply trying to create a tiny wedge o
 You do not climb the mountain to escape who you are. You climb it to finally meet the person you have been hiding from. 
 
 The summit was never about conquering the rock. It was about mastering the climber. Set the timer. Take a breath. Begin.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
