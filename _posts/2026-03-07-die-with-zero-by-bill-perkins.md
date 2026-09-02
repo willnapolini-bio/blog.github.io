@@ -2,7 +2,7 @@
 title: "Die With Zero: Why Your Bank Account Should Not Outlive You (And How to Spend Your Life, Not Just Save It)"
 description: >-
   Bill Perkins' counterintuitive framework proves that dying rich is not a sign of financial success, but a tragic waste of life energy. Discover the mathematics of memory, the architecture of time buckets, and how to finally convert your wealth into a life well-lived.
-date: 2026-08-13 00:00:00 +0800
+date: 2026-09-02 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   financial-psychology,
@@ -14,9 +14,10 @@ tags: [
 ]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213273/die-with-zero-by-bill-perkins_fcclq3.png"
 alt: "An hourglass resting on a wooden table, with the sand inside glowing like crushed gold, symbolizing the finite and valuable nature of our time."
-pin: false
+pin: true
 fallback:
 ---
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/die-with-zero-by-bill-perkins.mp3" %}
 
 Imagine you are at the very end of your life. You are sitting in a quiet room, looking back on the decades. A nurse or a lawyer walks in and hands you your final bank statement. You look down and see a balance of three million dollars. 
 
@@ -177,3 +178,5 @@ You will feel a spike of fear when you do it. That is normal. That is just the o
 Your bank account is a battery, and money is just stored life energy. If you die with a fully charged battery, it means you lived in the dark. 
 
 Start turning on the lights.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
