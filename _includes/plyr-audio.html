@@ -1,10 +1,78 @@
+{% comment %}
+  Audio summary player — teal gradient card with avatar, verified name,
+  website and Telegram community button (Plyr 3.7.8).
+  Structure: [avatar + name + site | Telegram card] top row, player below.
+  Same single-row layout on mobile and desktop (fluid clamp() sizing).
+
+  Usage (src is the only required param):
+    {% include plyr-audio.html src="/assets/audio/post-summary.mp3" %}
+
+  Optional overrides (defaults are Will's identity):
+    src      → required, mp3 URL or site-relative path
+    avatar   → round profile photo
+    name     → display name (verified badge is always shown next to it)
+    site     → small line under the name (pass "none" to hide)
+    telegram → Telegram invite URL (pass "none" to hide the card)
+{% endcomment %}
+
+{%- assign pa_avatar = include.avatar | default: 'https://pbs.twimg.com/media/GppW-XPXUAAzUhs?format=png&name=small' -%}
+{%- assign pa_name = include.name | default: 'Will Napolini' -%}
+{%- assign pa_site = include.site | default: 'willonsuccess.com' -%}
+{%- assign pa_telegram = include.telegram | default: 'https://t.me/will_napolini_summaries' -%}
+
 <div class="plyr-audio-wrapper">
-  <div class="plyr-audio-label">
-    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3v10.55A4 4 0 1 0 14 17V7h4V3h-6z"/></svg>
-    <span>Listen to this summary</span>
+  <div class="plyr-audio-top">
+    <div class="plyr-audio-header">
+      <img class="plyr-audio-avatar" src="{{ pa_avatar }}" alt="{{ pa_name }}" loading="lazy" />
+      <div class="plyr-audio-identity">
+        <span class="plyr-audio-name">
+          <span class="plyr-audio-name-text">{{ pa_name }}</span>
+          <svg class="plyr-audio-badge" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M23 12l-2.44-2.79.34-3.69-3.61-.82-1.89-3.2L12 2.96 8.6 1.5 6.71 4.69 3.1 5.5l.34 3.7L1 12l2.44 2.79-.34 3.7 3.61.82L8.6 22.5l3.4-1.47 3.4 1.46 1.89-3.19 3.61-.82-.34-3.69L23 12zm-12.91 4.72l-3.8-3.81 1.48-1.48 2.32 2.33 5.85-5.87 1.48 1.48-7.33 7.35z"/></svg>
+        </span>
+        {%- unless pa_site == 'none' -%}
+        <span class="plyr-audio-site">{{ pa_site }}</span>
+        {%- endunless -%}
+      </div>
+    </div>
+
+    {%- unless pa_telegram == 'none' -%}
+    <a class="plyr-telegram-card" href="{{ pa_telegram }}" target="_blank" rel="noopener nofollow">
+      <span class="plyr-telegram-icon" aria-hidden="true">
+        <svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"/></svg>
+      </span>
+      <span class="plyr-telegram-text">
+        <span class="plyr-telegram-small">Join my</span>
+        <span class="plyr-telegram-strong">Telegram Community</span>
+      </span>
+      <svg class="plyr-telegram-chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+    </a>
+    {%- endunless -%}
   </div>
-  <audio class="plyr-audio-player" controls>
+
+  <audio class="plyr-audio-player" controls preload="metadata">
     <source src="{{ include.src }}" type="audio/mpeg" />
     Your browser does not support the audio element.
   </audio>
 </div>
+
+<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+<script>
+  (function () {
+    function initPlyrAudio() {
+      if (typeof Plyr === "undefined") return;
+      document.querySelectorAll("audio.plyr-audio-player").forEach(function (el) {
+        if (el.plyr || el.dataset.plyrBound) return; // skip if already initialized
+        el.dataset.plyrBound = "true";
+        new Plyr(el, {
+          controls: ["play", "progress", "current-time", "duration", "mute"],
+          settings: [],
+          seekTime: 10,
+          invertTime: false, /* show total duration, not remaining */
+          tooltips: { seek: true }
+        });
+      });
+    }
+    if (typeof Plyr !== "undefined") { initPlyrAudio(); }
+    else { document.addEventListener("DOMContentLoaded", initPlyrAudio); }
+  })();
+</script>
