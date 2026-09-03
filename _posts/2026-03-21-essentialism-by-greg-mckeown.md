@@ -29,6 +29,8 @@ Greg McKeown wrote *Essentialism: The Disciplined Pursuit of Less* to address ex
 
 I have returned to this book more than once, and each time I do, I notice another place where I have been trading depth for breadth without realizing it. That is what I want to walk through with you now.
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/essentialism-by-greg-mckeown.mp3" %}
+
 ## The Big Idea: Less, but Better
 
 The entire philosophy of this book rests on four words McKeown keeps returning to: *less, but better.*
@@ -42,8 +44,6 @@ McKeown challenges that assumption directly. He argues that the undisciplined pu
 The Essentialist, as he defines the term, does not simply do fewer things. The Essentialist makes a disciplined, ongoing practice of asking: *Is this the very most important thing I should be doing with my time and energy right now?* And if the answer is not a clear yes, the Essentialist treats it as a no.
 
 That last part is where the book becomes genuinely challenging. Because most of us do not operate with clear yeses and clear nos. We operate in a fog of "maybe" and "I suppose" and "I probably should." And that fog is where our lives quietly fill up with things we never truly wanted.
-
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/essentialism-by-greg-mckeown.mp3" %}
 
 ## The Trade-Off You Cannot Avoid
 
