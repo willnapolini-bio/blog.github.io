@@ -61,13 +61,14 @@
     function initPlyrAudio() {
       if (typeof Plyr === "undefined") return;
       document.querySelectorAll("audio.plyr-audio-player").forEach(function (el) {
-        if (el.plyr || el.dataset.plyrBound) return; // skip if already initialized
+        /* skip if already initialized */
+        if (el.plyr || el.dataset.plyrBound) return;
         el.dataset.plyrBound = "true";
         new Plyr(el, {
           controls: ["play", "progress", "current-time", "duration", "mute"],
           settings: [],
           seekTime: 10,
-          invertTime: false, /* show total duration, not remaining */
+          invertTime: false,
           tooltips: { seek: true }
         });
       });
