@@ -29,6 +29,8 @@ James Clear wrote *Atomic Habits* to dismantle that conclusion. Not to argue tha
 
 If I could sit across the table from you and say only one thing about this book, it would be this: you do not need a revolution. You need a better system for making very small decisions, over and over, until those decisions quietly rebuild the architecture of your life.
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/atomic-habits-by-james-clear-summary.mp3" %}
+
 ## The Central Idea: What You Repeat in Private Eventually Becomes Visible in Your Life
 
 The word "atomic" carries a double meaning in Clear's framework. An atom is extraordinarily small, almost invisible on its own. But it is also the fundamental building block of everything larger. An atomic habit is both of those things simultaneously: a tiny behavior, barely noticeable in the moment, that serves as the foundational unit of a much larger outcome.
@@ -39,7 +41,6 @@ This is where most people give up. Clear calls it the "plateau of latent potenti
 
 You are not failing because nothing has changed. You are in the part of the curve where the change is real but not yet visible.
 
-{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/atomic-habits-by-james-clear-summary.mp3" %}
 
 ## The Story That Proves the Principle: British Cycling and the Aggregation of Marginal Gains
 
