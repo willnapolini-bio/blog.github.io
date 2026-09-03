@@ -120,12 +120,12 @@
           const href = link.getAttribute('href');
           if (!href) return;
           
-          // Fix old domain links
+          /* Fix old domain links */
           if (href.includes('github.com/ortonBio/myblog.github.io')) {
               link.setAttribute('href', href.replace('https://github.com/ortonBio/myblog.github.io', ''));
           }
           
-          // Convert absolute to relative for current domain
+          /* Convert absolute to relative for current domain */
           if (href.startsWith(window.location.origin)) {
               link.setAttribute('href', href.replace(window.location.origin, '') || '/');
           }
@@ -421,5 +421,4 @@
     }
   }
 </style>
-  </head>
-  
+</head>
