@@ -2,7 +2,7 @@
 title: "The 5 Love Languages Summary: How to Speak the Language Your Relationships Actually Need"
 description: >-
   Discover how understanding the five fundamental ways people give and receive love can transform your relationships from exhausting guesswork into intentional, lasting connection.
-date: 2026-08-22 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development, relationships]
 tags: [
   relationships,
@@ -28,6 +28,8 @@ For years, I watched brilliant, well-intentioned people watch their relationship
 Dr. Gary Chapman’s classic book, *The 5 Love Languages*, dismantles this assumption with gentle, profound clarity. While it is most famous as a marriage book, its underlying philosophy is a masterclass in human connection, applicable to parenting, friendships, and even professional mentorship. 
 
 Here is what I have learned from this framework, and how you can use it to stop guessing and start truly connecting.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-5-love-languages.mp3" %}
 
 ## The Big Idea: Love Is Not a Single Currency; It Is a Set of Dialects
 
@@ -150,3 +152,5 @@ The deepest lesson of *The 5 Love Languages* is that love is not just a feeling 
 You have the power to change the climate of your most important relationships. You do not need to be perfect. You just need to be willing to learn their language, one word, one action, one day at a time. 
 
 Start building the bridge today.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
