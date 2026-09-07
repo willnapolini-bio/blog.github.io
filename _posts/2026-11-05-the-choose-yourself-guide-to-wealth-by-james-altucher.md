@@ -33,6 +33,8 @@ James Altucher knows what happens when the map fails. In his book *The Choose Yo
 
 Let us look at what he found when the old world burned down, and how you can build a new one.
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-choose-yourself-guide-to-wealth.mp3" %}
+
 ## The Big Idea: Wealth Is a Four-Legged Stool, and Money Is Just One Leg
 
 Before we talk about money, we have to redefine what wealth actually is. 
@@ -168,3 +170,5 @@ The old map is torn. The safe path is an illusion. But the ground beneath your f
 No one is coming to choose you. The world is too busy, too loud, and too distracted to notice your potential. 
 
 You have to choose yourself. And the beautiful, terrifying truth is that once you do, you will realize you were the only one who ever had the power to do it.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
