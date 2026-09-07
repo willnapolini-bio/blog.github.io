@@ -3,7 +3,7 @@ title: "How to Talk to Anyone: The Quiet Craft of Effortless Connection"
 description: >-
   Leil Lowndes reveals the hidden mechanics of charisma and conversation. 
   Discover how to overcome social anxiety, make unforgettable first impressions, and turn strangers into allies.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   leil-lowndes,
@@ -24,6 +24,8 @@ Have you ever stood at the edge of a crowded room—a wedding, a networking even
 If I could sit across the table from you right now, I would tell you something I have learned after years of studying human behavior: The people who command a room are not born with a magical gift. They are not genetically superior. They have simply learned a craft. 
 
 We have been sold a dangerous myth about charisma. We believe that being a great conversationalist means being witty, having fascinating stories, or possessing an aggressive, extroverted personality. But the most magnetic people in the room rarely talk about themselves at all. 
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/how-to-talk-to-anyone.mp3" %}
 
 ### The Big Idea: The Art of Shining the Spotlight
 
@@ -115,3 +117,5 @@ Listen to their answer. Do not interrupt. Do not relate it back to yourself. Jus
 Watch how their eyes change. Watch how the energy in the room shifts. In that single moment, you have stopped being an anxious performer waiting for a verdict, and you have become an architect of human connection. 
 
 *The world does not remember the person who tried the hardest to look impressive; it remembers the person who made it feel like home.*
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
