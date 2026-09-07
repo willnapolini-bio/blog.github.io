@@ -5,7 +5,7 @@ description: >-
   the illusion of distant opportunity, and the radical truth that your greatest
   potential is not across the ocean—it is in the soil you are standing on right now.
   Stop looking for greener pastures. Start digging where you are.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development, entrepreneurship]
 tags: [
   acres-of-diamonds-summary,
@@ -35,11 +35,11 @@ pin: false
 fallback:
 ---
 
-# Acres of Diamonds — And Why Your Fortune Is Under Your Feet
-
 I want to ask you a question that might feel a little uncomfortable, but I promise it will set you free: What if the life you are praying for is already waiting for you, but you are too busy looking for it somewhere else? I know how it feels. I have stood where you are standing. I have looked at my current circumstances—my bank account, my job title, my city—and felt like they were a waiting room for the *real* life that was going to start once I got to the right place. But here is the truth that changed everything for me, and it is the truth that Russell H. Conwell captures so beautifully in *Acres of Diamonds*: **You are not poor because you are in the wrong place. You are poor because you are not seeing the place you are in.**
 
 Let me walk you through this simple, devastatingly powerful story, and then let me tell you why it is the most important lesson you will learn this year.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/acres-of-diamonds-by-russell-h-conwell.mp3" %}
 
 ## The Story That Changed Everything
 
@@ -104,3 +104,5 @@ Write down the first step. Not the whole plan. Just the first step. Make the cal
 You do not need to buy a ticket to Barcelona. You do not need to sell your farm. You need to pick up a shovel. The diamonds are there. They have been there all along.
 
 Start digging.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
