@@ -4,7 +4,7 @@ description: >-
   Eight pillars—deep listening, headlines, benefits, simplicity, story, clear asks, editing, testing—turn Maslen's 100 patterns into persuasion that serves.
 excerpt: >-
   I was twenty-three, staring at a blank page on a Tuesday afternoon, unable to make a single stranger care. Andy Maslen's 100 Great Copywriting Ideas handed me the architecture I was missing—100 repeatable patterns built on one truth: persuasion is empathy made visible. Here are the eight pillars I still use every day, handed to you the way I wish someone had handed them to me.
-date: 2026-01-01 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, marketing, copywriting]
 tags: [
   100-great-copywriting-ideas-summary,
@@ -36,11 +36,11 @@ pin: false
 fallback: ""
 ---
 
-# The Words That Change Everything: What Andy Maslen Taught Me About Writing, Selling, and Becoming
-
 I remember the exact Tuesday afternoon my whole relationship with language shifted. I was twenty-three, staring at a blank page, trying to sell a product I believed in, and I could not string two sentences together that made a stranger care. Not one. I had the passion. I had the product. What I did not have was the architecture—the invisible scaffolding that turns a good intention into a sentence that makes someone lean forward in their chair and whisper, *"Yes, this is for me."* Then I found Andy Maslen's *100 Great Copywriting Ideas*, and I realized something that changed the trajectory of my life: **persuasion is not a talent you are born with; it is a craft you build, one deliberate brick at a time.** And if I could learn it—clumsy, uncertain, twenty-three-year-old me—then you can learn it too. Not someday. Today.
 
 Let me tell you what this book is, and more importantly, what it is not. Maslen did not write a textbook. He wrote a field guide for the working soul—100 short, punchy chapters, each one a single principle you can hold in your hand like a smooth river stone. No chapter runs longer than three or four pages. You can read one with your morning coffee and spend the rest of the day seeing the world differently. That is the genius of the structure. **Great wisdom does not need to be heavy to be deep.** Maslen understood that the best teachers hand you one seed at a time and trust you to plant it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/100-great-copywriting-ideas-by-andy-maslen.mp3" %}
 
 ## The First Principle: You Are Not Writing. You Are Listening.
 
@@ -111,3 +111,5 @@ And the three after that.
 And the three after that.
 
 That is how a life gets built. Three sentences at a time. And yours, my friend, is going to be a masterpiece.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
