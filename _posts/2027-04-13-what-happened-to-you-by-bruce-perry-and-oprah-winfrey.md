@@ -2,7 +2,7 @@
 title: "From Broken to Brilliant: A Mentor’s Guide to Healing What Happened to You"
 description: >-
   Discover how shifting your question from "What's wrong with me?" to "What happened to me?" can unlock profound healing, resilience, and personal growth.
-date: 2026-08-29 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   trauma-healing,
@@ -24,6 +24,8 @@ If I could sit across the table from you right now, I would ask you to take a de
 There is a profound shift in perspective that changes everything. It is the central premise of the transformative conversations between Dr. Bruce Perry and Oprah Winfrey, which deeply explore how our earliest childhood experiences cast a long shadow over our adult behavior and mental health. The shift is simple in theory but revolutionary in practice: we must stop asking, *What is wrong with you?* and start asking, *What happened to you?*
 
 When you ask what is wrong with you, you imply that you are broken, defective, or inherently flawed. You invite shame. But when you ask what happened to you, you invite curiosity. You begin to see your behaviors not as character defects, but as brilliant, adaptive responses to the environments you had to survive. You were not built to fail; you were built to adapt. And the very mechanisms that kept you safe in the past are simply misfiring in the present.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/what-happened-to-you.mp3" %}
 
 ### The Architecture of Your Survival
 
@@ -104,4 +106,7 @@ Healing does not begin when you force yourself to change; it begins when you fin
 
 Your action for today is small but foundational. Identify one moment today where you feel a spike of frustration, anxiety, or defensiveness. Instead of reacting, pause. Take one slow, deep breath that lasts for a count of six on the inhale and six on the exhale. Send that breath down into the basement of your brain, and silently say to yourself: *I am safe right now. That was then. This is now.*
 
-You are not the damage that was done to you; you are the awareness that is healing it. The alarm is finally quieting. Step out of the basement, and walk into the rest of your life.
+You are not the damage that was done to you; you are the awareness that is healing it. The alarm is finally quieting. Step out of the 
+basement, and walk into the rest of your life.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
