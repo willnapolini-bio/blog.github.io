@@ -2,7 +2,7 @@
 title: "The Goal: Why Working Harder Is the Wrong Answer When You Feel Stuck"
 description: >-
   Eliyahu Goldratt's business classic is not really about factories. It is a profound guide to finding the single constraint holding your life back, and having the courage to stop optimizing everything else. Here is how to find your bottleneck and actually move forward.
-date: 2026-08-24 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   theory-of-constraints,
@@ -30,6 +30,8 @@ But what if the reason you feel stuck has nothing to do with your effort, and ev
 Eliyahu M. Goldratt wrote *The Goal* as a novel about a struggling manufacturing plant. But underneath the hard hats, the conveyor belts, and the corporate politics, he wrote one of the most profound manuals for human effectiveness ever published. He introduced the world to the Theory of Constraints. And while it was designed for factories, its principles apply to your career, your relationships, your creative work, and your life.
 
 If you have ever felt like you are running at full speed on a treadmill, this book will show you how to step off and actually start walking toward your destination.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-goal-by-eliyahu-goldratt.mp3" %}
 
 ## The Big Idea: You Cannot Optimize a System That Is Pulling in the Wrong Direction
 
@@ -154,3 +156,5 @@ Once you have identified it, I want you to do one thing today to lighten that ba
 Do not try to fix the whole system today. Do not try to optimize the fast hikers at the front of the line. 
 
 Just find your Herbie. Lighten his pack. And start walking.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
