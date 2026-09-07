@@ -2,7 +2,7 @@
 title: "The Permissionless Leader: Finding Your Tribe and Leading the Way"
 description: >-
   Seth Godin’s *Tribes* dismantles the myth that leadership requires a title or permission. Discover how to connect people around a shared idea, challenge the status quo, and become the leader your community has been waiting for.
-date: 2026-08-28 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   leadership,
@@ -31,6 +31,8 @@ If I could sit across the table from you right now, I would tell you a secret th
 The people at the top are often just as overwhelmed as you are. The systems we inherited were built for a different era. And the person who is going to step up and connect the dots, gather the people, and light the fire? That person is supposed to be you.
 
 This is the central, liberating message of Seth Godin’s short but profoundly impactful book, *Tribes: We Need You to Lead Us*. It is not a manual on how to climb the corporate ladder. It is a manifesto on how to step off the ladder entirely and build something better on the ground, alongside others.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/tribes-by-seth-godin.mp3" %}
 
 ## The Big Idea: Leadership is a Choice, Not a Title
 
