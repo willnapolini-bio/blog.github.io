@@ -2,7 +2,7 @@
 title: "The Courage to Be Disliked: How to Stop Carrying the Weight of Other People's Expectations and Finally Live Your Own Life"
 description: >-
   Ichiro Kishimi and Fumitake Koga’s modern classic uses Adlerian psychology to dismantle the myth of trauma, the trap of seeking approval, and the burden of other people's opinions. This article translates its radical, liberating ideas into a practical guide for reclaiming your freedom and stepping onto the dance floor of your own life.
-date: 2026-08-23 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   adlerian-psychology,
@@ -32,6 +32,8 @@ In 2013, two Japanese authors—Ichiro Kishimi and Fumitake Koga—published a b
 Over the course of those five nights, the Philosopher systematically dismantles the Young Man’s worldview. And if you let it, he will dismantle yours, too. Not to break you, but to set you free. 
 
 Let us sit down and look at what this book is actually trying to tell you.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-courage-to-be-disliked.mp3" %}
 
 ## The Big Idea: You Are Not a Prisoner of Your Past; You Are the Architect of Your Present
 
@@ -159,3 +161,5 @@ Life is not a mountain you are hiking up, struggling to reach a peak where you w
 Life is a dance floor. The music is playing right now. The steps do not matter as much as the willingness to move. You do not need the permission of the crowd to step onto the floor. You just need the courage to dance, even if they don't like your style. 
 
 The music is playing. Step out.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
