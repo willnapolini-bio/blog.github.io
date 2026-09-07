@@ -2,7 +2,7 @@
 title: "The 7 Day Startup Summary: How to Break the Cycle of Overthinking and Finally Launch"
 description: >-
   Discover how imposing a strict seven-day constraint can shatter perfectionism, force meaningful action, and help you build a business based on real market feedback rather than guesswork.
-date: 2026-08-22 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development, entrepreneurship]
 tags: [
   entrepreneurship,
@@ -28,6 +28,8 @@ You are trying to draw a perfect map of a territory you have never visited. And 
 This is the exact trap Dan Norris exposes in his highly practical, no-nonsense book, *The 7 Day Startup*. While the book is aimed at aspiring entrepreneurs and side-hustlers, its core philosophy is a masterclass in overcoming the paralysis of perfectionism. It is a guide for anyone who has an idea but lacks the momentum to bring it into the real world.
 
 Here is what I have learned from Norris’s framework, and how you can use it to stop planning in the shadows and start building in the light.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-7-day-startup-by-dan-norris.mp3" %}
 
 ## The Big Idea: Action Is the Only True Form of Research
 
@@ -150,3 +152,5 @@ Every massive, successful venture began as a rough, imperfect, barely-functional
 You do not need more time. You do not need more certainty. You need the courage to take a small, imperfect step into the unknown. 
 
 The world does not need more perfect plans. It needs your imperfect, courageous first action. Start your seven days today.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
