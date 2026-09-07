@@ -2,7 +2,7 @@
 title: "You Are a Writer by Jeff Goins: Stop Waiting for Permission to Begin"
 description: >-
   Jeff Goins dismantles the myth that you need credentials, publication, or approval to call yourself a writer. This summary explores why identity precedes outcome, how consistent practice builds a voice, and what it actually takes to move from dreaming about writing to doing it.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   writing-craft,
@@ -30,6 +30,8 @@ Jeff Goins wrote *You Are a Writer (So Start Acting Like One)* for that exact mo
 I have spent years around people who want to write. And I have noticed that the ones who actually write are rarely the most gifted. They are the ones who stopped negotiating with the question of whether they were allowed to. They sat down before they felt ready. They wrote before they felt qualified. They let the work make them writers, rather than waiting to be made writers before they did the work.
 
 That is the whole book, distilled. But let me walk you through it, because the details matter.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/you-are-a-writer-by-jeff-goins.mp3" %}
 
 ## The Big Idea: You Do Not Become a Writer by Being Published. You Become a Writer by Writing.
 
@@ -144,3 +146,5 @@ You do not need a publishing contract to be a writer. You do not need an audienc
 The title is not granted. It is earned in the quiet, unglamorous act of showing up when no one is watching and putting one honest sentence after another.
 
 You are a writer. Now start acting like one.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
