@@ -1,4 +1,4 @@
-.---
+---
 title: "The Art of Starting Over: How to Choose Yourself and Reinvent Your Life"
 description: >-
   Discover James Altucher’s radical blueprint for reinvention. Learn how to shed outdated identities, build your idea muscle, and choose yourself when the world tells you to wait in line.
