@@ -2,7 +2,7 @@
 title: "The Dip by Seth Godin: Why the Hardest Part of Any Journey Is the Exact Part That Makes You Valuable"
 description: >-
   Seth Godin's short, sharp book dismantles the myth that winners never quit and replaces it with something more honest and more useful: a framework for knowing when to push through and when to walk away. This article explores how the long, grinding middle of any endeavor is not a sign of failure but the mechanism that creates value, and how to quit strategically instead of reactively.
-date: 2026-08-23 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   strategic-quitting,
@@ -32,6 +32,8 @@ Seth Godin published a very short book in 2007 called *The Dip*. It is roughly t
 This is not a book about grit. It is not a book about hustle. It is not a pep talk dressed up in a business jacket. It is a book about discernment. About the difference between the pain that builds you and the pain that wastes you. About the radical, unfashionable idea that quitting is not the opposite of success. Sometimes, quitting is the prerequisite.
 
 Let me walk you through what Godin built, and what I have learned from living inside it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-dip-by-seth-godin.mp3" %}
 
 ## The Big Idea: The Long Grind in the Middle Is Not a Problem. It Is the Point.
 
@@ -174,3 +176,5 @@ That is exactly why the other side is worth reaching. That is exactly why you, i
 Keep walking. Or turn around. But do not stand still in the middle, calling it a journey.
 
 You deserve a road that goes somewhere.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
