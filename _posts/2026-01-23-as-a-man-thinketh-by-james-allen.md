@@ -5,7 +5,7 @@ description: >-
   your life is not a series of random events, but the exact harvest of the seeds you
   plant in the garden of your mind. Stop blaming the soil. Start choosing the seeds.
   Your character, your circumstances, and your destiny are all waiting for your command.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development, mindset]
 tags: [
   as-a-man-thinketh-summary,
@@ -35,9 +35,9 @@ pin: false
 fallback:
 ---
 
-# As a Man Thinketh — The Master Garden of Your Mind
-
 I want to ask you a question that might stop you in your tracks, but I promise it will set you free: What if the life you are currently living is not a series of random accidents, but the exact, perfect harvest of the seeds you planted three years ago? I know how heavy that question feels. I spent the first decade of my adult life pointing fingers at the economy, my bosses, my background, and my bad luck. I thought I was a victim of my circumstances. But then I read a little book published in 1903 by a man named James Allen, and it completely shattered my excuses. *As a Man Thinketh* is not just a book; it is a mirror. And the radical truth it holds is this: **You are not trapped by your environment. You are shaped by your mind.**
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/as-a-man-thinketh-by-james-allen.mp3" %}
 
 ## The Master Garden
 
@@ -70,3 +70,5 @@ I want you to go on a mental weed-pull. Find one recurring negative thought that
 Next, write down one single, beautiful thought you want to plant in its place. "I am capable of learning anything." "I bring value to every room I enter." Read it out loud. Plant it. Water it.
 
 You hold the trowel. The garden is yours. Start planting.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
