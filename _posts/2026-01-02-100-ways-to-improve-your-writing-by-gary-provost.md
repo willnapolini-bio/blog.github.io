@@ -29,11 +29,12 @@ alt: "A warm, inviting visual representing the heart and craft of 100 Ways to Im
 pin: false
 fallback:
 ---
-# What Gary Provost Taught Me About the Words You Already Carry Inside You
 
 I remember the first time I read a sentence I'd written and actually *felt* something. Not pride. Not relief. I felt the quiet electricity of recognition, as if the words had finally caught up with the thought I'd been chasing for three years. I was twenty-four, sitting at a kitchen table with a cold cup of coffee and a legal pad covered in crossed-out lines. And I realized something that changed everything for me: **the gap between what you feel and what you put on the page is not a talent problem. It is a craft problem.** And craft can be learned.
 
 That is the beating heart of Gary Provost's *100 Ways to Improve Your Writing*. Not a single one of his hundred lessons requires you to be born special. Not one demands a degree, a connection, or a stroke of luck. What Provost hands you is a toolbox, and what he says—quietly, firmly, across every page—is this: *You already have the wood. Now let me show you how to build.*
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/100-ways-to-improve-your-writing.mp3" %}
 
 ## The Discipline Before the Magic
 
@@ -96,3 +97,5 @@ Ten minutes. That is all. And when you finish, you will have done the thing. You
 You are more ready than you know. You have been carrying this book inside you for longer than you realize. Gary Provost just handed you the permission slip.
 
 Now go write the sentence that only you can write. I believe you will surprise yourself. And I will be right here, cheering you on, when you do.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
