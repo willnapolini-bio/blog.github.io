@@ -2,7 +2,7 @@
 title: "The Architecture of Your Life: How Decisions, Not Conditions, Shape Your Destiny"
 description: >-
   Discover the distilled wisdom of Anthony Robbins' Notes from a Friend: how to master the pain-pleasure principle, ask better questions, and make decisions that actually change your life.
-date: 2026-08-19 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   anthony-robbins,
@@ -25,6 +25,8 @@ If I could sit across the table from you right now, I would ask you a question t
 Many of us move through our days like leaves caught in a storm. We are blown about by the economy, by the moods of our bosses, by the traffic, and by the unpredictable nature of other people. We believe we are stuck because of the circumstances we face. But the central thesis of this book offers a radically liberating truth: It is not the conditions of your life that shape your destiny, but the decisions you make within those conditions.
 
 Circumstances are merely the raw material. Your decisions are the architect.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/notes-from-a-friend-by-anthony-robbins.mp3" %}
 
 ### The Invisible Hand Guiding Your Choices
 
@@ -104,3 +106,5 @@ Today, I want you to make one true decision about something you have been puttin
 Do not negotiate with yourself. Do not wait until you "feel like it." Draw the line in the sand, change your physiology by standing up tall, and take the first action. 
 
 A wish keeps you waiting. A decision sets you in motion.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
