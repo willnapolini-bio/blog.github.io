@@ -156,3 +156,5 @@ You have spent years being trained to follow. You have been rewarded for complia
 The campfire is waiting. The people are out there, looking for a signal. 
 
 You do not need a title. You do not need permission. You just need to be the first one to strike the match.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
