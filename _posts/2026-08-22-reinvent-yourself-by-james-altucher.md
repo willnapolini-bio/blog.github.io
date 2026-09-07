@@ -1,8 +1,8 @@
----
+.---
 title: "The Art of Starting Over: How to Choose Yourself and Reinvent Your Life"
 description: >-
   Discover James Altucher’s radical blueprint for reinvention. Learn how to shed outdated identities, build your idea muscle, and choose yourself when the world tells you to wait in line.
-date: 2026-08-21 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   james-altucher,
@@ -27,6 +27,8 @@ If I could sit across the table from you right now, I would tell you the most li
 In *Reinvent Yourself*, entrepreneur and author James Altucher dismantles the myth of the single life path. This book is a collection of hard-won lessons, stories, and unconventional strategies for anyone who realizes that the life they are living no longer fits the person they are becoming. 
 
 The central thesis is both simple and radical: The era of the gatekeeper is over. You no longer need permission from a boss, a publisher, an investor, or society to change your life. You must "choose yourself." When the world tells you to wait in line, choosing yourself means walking out of the line and building your own door.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/reinvent-yourself-by-james-altucher.mp3" %}
 
 ### The Ashes of the Old Identity
 
@@ -125,3 +127,5 @@ Force yourself to write all ten. The first three will be easy. The next four wil
 Read the list. One of those seeds is your next season. 
 
 The gatekeepers are gone. The waiting room is empty. The only permission you will ever need is your own. Pick up the pen, choose yourself, and begin.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
