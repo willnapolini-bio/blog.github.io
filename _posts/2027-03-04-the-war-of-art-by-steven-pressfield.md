@@ -130,3 +130,5 @@ You are declaring to yourself, and to the universe, that you are no longer an am
 The war is not fought in grand, dramatic battles. It is fought in the quiet, unglamorous moments when you choose to sit down and do the work. 
 
 Your resistance is strong, but your commitment can be stronger. Clock in. The world is waiting for what you have to create.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
