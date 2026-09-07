@@ -4,7 +4,7 @@ description: >-
   Awaken the Giant Within provides a masterclass in the mechanics of human drive.
   This summary breaks down Tony Robbins' core frameworks for rewiring your emotional
   associations, raising your standards, and turning your "shoulds" into "musts."
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   decision-making,
@@ -29,6 +29,8 @@ If I could sit across the table from you right now, I would tell you that this g
 Tony Robbins wrote *Awaken the Giant Within* to close that gap. It is a massive, dense, and unapologetically intense book, originally published in the early 1990s. Robbins writes with a megaphone, but the truth he is shouting is actually quite quiet: your life is not the result of your circumstances. It is the result of your decisions. And more importantly, it is the result of how you have unconsciously wired your nervous system to respond to pain and pleasure.
 
 Here is what I have learned from studying his work, and what I want you to understand about the mechanics of your own mind.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/awaken-the-giant-within-by-tony-robbins.mp3" %}
 
 ## The Big Idea: Destiny Is Shaped in the Moment of Decision
 
@@ -160,3 +162,5 @@ A preference leaves the door open for you to change your mind. A decision locks 
 You are not waiting for motivation to strike. You are not waiting for the perfect moment. The giant within you does not wake up because the circumstances are right; it wakes up because you decide it is time. 
 
 Draw the line. Make the cut. Step forward.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
