@@ -2,7 +2,7 @@
 title: "Do the Work: How to Survive the Messy Middle and Defeat the Invisible Force Holding You Back"
 description: >-
   Steven Pressfield's Do the Work reveals that the barrier to your greatest achievements is not a lack of talent, but an invisible force he calls Resistance. Here is how to stop overthinking, survive the messy middle, and finally ship your work.
-date: 2026-08-14 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   steven-pressfield,
@@ -27,6 +27,8 @@ When this moment arrives, most of us do what we have been conditioned to do: we 
 If I could sit across the table from you right now, I would tell you the truth that took me years of painful failure to learn: You are not broken. You are not lazy. You are not lacking in talent. You have simply encountered the universal force that guards the gate to all meaningful growth. 
 
 Steven Pressfield calls this force "Resistance." And in his short, punchy, deeply necessary book *Do the Work*, he hands you the field manual for defeating it.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/do-the-work-by-steven-pressfield.mp3" %}
 
 ### The Big Idea: The Enemy Is Real, But It Is Not You
 
@@ -149,3 +151,5 @@ The distance between the person you are and the person you are meant to become i
 The work is waiting for you. It does not care if you are ready. It only cares that you show up. 
 
 Pick up the pen. Open the laptop. Step into the arena. The only way out is through.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
