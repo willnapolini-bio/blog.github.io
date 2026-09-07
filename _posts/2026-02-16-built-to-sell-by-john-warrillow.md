@@ -2,7 +2,7 @@
 title: "Built to Sell: Why Your Business Needs to Work Without You (And How to Make It Happen)"
 description: >-
   John Warrillow's parable reveals why most service businesses are unsellable—and the specific shift that transforms a founder-dependent company into an asset that thrives without its owner.
-date: 2026-08-13 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   entrepreneurship,
@@ -26,7 +26,7 @@ The book is *Built to Sell* by John Warrillow, and its central argument is decep
 
 That stings. I know. But sit with it for a moment, because the relief that follows is real.
 
----
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/built-to-sell-by-john-warrillow.mp3" %}
 
 ## The Trap Most Founders Walk Into Without Seeing It
 
@@ -161,3 +161,5 @@ That rough list is the seed of a process. It is the first plank in a boat that c
 You do not need to finish the boat today. You need to lay one plank. Then tomorrow, you lay another. And the day after, another. And one morning, months from now, you will look up and realize the thing you built can carry the weight without you standing in the center of it, exhausted, holding it all together by force of will.
 
 A business that runs without you is not a business you have lost. It is the first real thing you have truly built.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
