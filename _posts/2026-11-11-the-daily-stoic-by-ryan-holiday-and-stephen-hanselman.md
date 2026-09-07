@@ -31,6 +31,8 @@ Ryan Holiday and Stephen Hanselman compiled a book called *The Daily Stoic*. On 
 
 Let us sit down and look at how this ancient wisdom can change the way you walk through your modern life.
 
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-daily-stoic-by-ryan-holiday.mp3" %}
+
 ## The Big Idea: Wisdom Is Not a Destination; It Is a Daily Practice
 
 There is a profound misconception about Stoicism. When people hear the word, they imagine a person with a heart of stone. Someone who suppresses their emotions, grits their teeth, and endures misery without complaint. 
@@ -159,3 +161,5 @@ The world will always be loud. The demands will never stop. The traffic will not
 But you can build an inner citadel. You can fortify your mind so that when the chaos arrives, it breaks against your walls and leaves your peace intact. 
 
 Tomorrow morning, the sun will rise, the world will make its demands, and you will have a choice to make. The bricks are waiting.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
