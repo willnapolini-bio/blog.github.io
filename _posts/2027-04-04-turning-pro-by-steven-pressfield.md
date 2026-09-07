@@ -2,7 +2,7 @@
 title: "Turning Pro by Steven Pressfield: How to Stop Playing Small and Do Your Life's Work"
 description: >-
   A mentor’s guide to the core lessons of Steven Pressfield’s Turning Pro, exploring how to overcome the fear of failure, silence the amateur ego, and commit to the daily discipline required to fulfill your true calling.
-date: 2026-08-28 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   turning-pro,
@@ -32,6 +32,8 @@ If I could sit across the table from you right now, I would tell you what I have
 That is the central, life-altering premise of *Turning Pro* by Steven Pressfield. 
 
 While many books tell you how to optimize your morning routine or hack your productivity, Pressfield is after something much deeper. He is not interested in helping you do more things. He is interested in helping you become the kind of person who finally does the *one thing* you were put on this earth to do.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/turning-pro-by-steven-pressfield.mp3" %}
 
 ## The Big Idea: The Amateur and the Professional
 
@@ -169,3 +171,5 @@ The truth is, you will never feel completely ready. The fear will never entirely
 The muse is not looking for a genius. She is looking for someone who shows up. 
 
 The door is open. The desk is waiting. All you have to do is sit down.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
