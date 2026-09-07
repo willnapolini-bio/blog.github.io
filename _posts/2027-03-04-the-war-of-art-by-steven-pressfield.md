@@ -2,7 +2,7 @@
 title: "The War of Art: How to Defeat Your Inner Enemy and Do the Work That Matters"
 description: >-
   A mentor's guide to Steven Pressfield's classic on overcoming creative resistance, turning professional, and unlocking your highest potential through consistent, courageous action.
-date: 2026-08-27 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [steven-pressfield, creativity, overcoming-procrastination, personal-development, discipline, writing]
 image: "https://res.cloudinary.com/dbozqjwzx/image/upload/q_auto/f_auto/v1779213926/the-war-of-art-by-steven-pressfield_a6lorm.png"
@@ -20,6 +20,8 @@ But what if the force keeping you from your most important work is not a flaw in
 If I could sit across the table from you, I would tell you this: You are not broken. You are simply facing an opponent that every single person who attempts anything meaningful must face. 
 
 Steven Pressfield’s *The War of Art* is not a gentle pat on the back. It is a battle manual. It names the enemy, explains its tactics, and gives you the exact mindset required to defeat it. It will challenge you. It might make you uncomfortable. But it will also give you the clarity you need to stop waiting and start building the life you know you are capable of creating.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-war-of-art-by-steven-pressfield.mp3" %}
 
 ---
 
