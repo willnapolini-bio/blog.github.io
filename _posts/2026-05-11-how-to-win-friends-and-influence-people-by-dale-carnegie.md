@@ -3,7 +3,7 @@ title: "How to Win Friends and Influence People: The Quiet Power of Human Empath
 description: >-
   Dale Carnegie reveals the hidden mechanics of human connection. 
   Discover why logic fails, how to bypass the ego, and the timeless art of making people feel truly important.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   dale-carnegie,
@@ -26,6 +26,8 @@ You laid out the facts. You used flawless logic. You proved your point. And yet,
 If I could sit across the table from you right now, watching you wrestle with the frustration of being misunderstood, here is the first thing I would tell you: Logic is a beautiful thing, but it is a terrible tool for changing human behavior. 
 
 We operate under a dangerous illusion. We believe that if we just explain ourselves clearly enough, if we just present the right data, the other person will naturally see our side. But human beings are not creatures of logic. We are creatures of emotion, prejudice, pride, and ego. 
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/how-to-win-friends-and-influence-people.mp3" %}
 
 ### The Big Idea: The Deepest Human Hunger
 
@@ -122,3 +124,5 @@ Send them a message, or walk up to them, and give them a piece of sincere, speci
 Watch their posture change. Watch the light come into their eyes. In that single moment, you have stopped trying to force the world to see you, and you have started the beautiful work of seeing the world. 
 
 *The greatest influence you will ever have is not found in the arguments you win, but in the dignity you give away.*
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
