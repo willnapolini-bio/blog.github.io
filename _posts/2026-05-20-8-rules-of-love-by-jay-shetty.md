@@ -2,7 +2,7 @@
 title: "Love Is a Skill, Not Just a Feeling: Practical Wisdom from 8 Rules of Love"
 description: >-
   Jay Shetty’s 8 Rules of Love reframes relationships as a learnable journey through solitude, compatibility, healing, and connection. This summary distills his Vedic-inspired framework into actionable principles for building self-awareness, navigating conflict with grace, and loving beyond romance.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   8-rules-of-love-summary,
@@ -30,8 +30,6 @@ pin: false
 fallback:
 ---
 
-
-
 I want to show you an idea that might change how you approach your next relationship—or the one you’re in right now.
 
 We often treat love like weather: something that happens to us, outside our control. We wait for lightning to strike, hope it lasts, and blame ourselves when storms come. But what if love is less like weather and more like craftsmanship? What if it is a skill built through intention, practice, and patience—something you can learn, refine, and embody regardless of circumstance?
@@ -39,6 +37,8 @@ We often treat love like weather: something that happens to us, outside our cont
 Jay Shetty’s *8 Rules of Love* offers exactly this reframe. Drawing from ancient Vedic wisdom and modern psychology, he presents love not as a destination but as a lifelong curriculum divided into four stages: Solitude, Compatibility, Healing, and Connection. Each stage contains specific rules designed to prepare you for love, practice it with integrity, protect it through difficulty, and ultimately expand it beyond romance.
 
 If you have ever felt lost in dating, stuck in repetitive patterns, or uncertain whether to stay or leave, this book meets you where you are. It does not promise perfect relationships. It promises a wiser way to move through them.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/8-rules-of-love.mp3" %}
 
 ## The Big Idea: Love Is Learned Through Four Ashrams
 
@@ -128,3 +128,5 @@ Do it.
 Because love is not found in grand gestures alone. It is built in the quiet, consistent choice to show up as a student of your own heart.
 
 **You were never meant to find love. You were meant to become someone love can trust.**
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
