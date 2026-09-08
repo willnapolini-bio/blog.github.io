@@ -2,7 +2,7 @@
 title: "Men Are from Mars, Women Are from Venus by John Gray: How to Stop Translating Love and Start Understanding It"
 description: >-
   Discover why the person you love most sometimes feels like a stranger. This exploration of John Gray’s classic relationship guide reveals the hidden mechanics of how men and women process stress, give love, and keep score.
-date: 2026-08-18 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   john-gray,
@@ -24,6 +24,8 @@ You gave them everything you thought they needed, and they acted like you gave t
 I have sat across from countless people who were on the brink of giving up on a relationship, not because they lacked love, but because they lacked a translator. They were operating under a dangerous assumption: the belief that the person they love thinks, feels, and processes the world exactly the way they do. 
 
 If you are working hard to love someone and still wondering why you feel so disconnected, I want to offer you a different perspective. The friction in your relationship is rarely a measure of how much you care. It is usually a measure of how poorly you are translating that care.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/men-are-from-mars-women-are-from-venus.mp3" %}
 
 ## The Big Idea
 
@@ -122,3 +124,5 @@ Here is your one small step for today: Identify one thing your partner does that
 For the next 24 hours, choose to interpret that behavior not as a personal slight, but as a difference in planetary origin. When they do it, silently say to yourself, *"They are not doing this to hurt me. They are just operating from their own planet."*
 
 You do not find harmony by forcing two different instruments to play the exact same note. You find it by learning how they were built to resonate together. The moment you stop demanding that they become exactly like you is the moment you finally give them the space to love you back.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
