@@ -5,7 +5,7 @@ description: >-
   negative visualization, and voluntary discomfort. Four ancient truths that reframe your 
   setbacks, your daily routines, and your capacity for deep, unshakeable tranquility. 
   Joy is not an accident. It is a practice.
-date: 2026-08-12 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development, philosophy]
 tags: [
   a-guide-to-the-good-life-summary,
@@ -33,11 +33,11 @@ pin: false
 fallback:
 ---
 
-# A Guide to the Good Life — And the Quiet Architecture of Your Joy
-
 Ten years ago, I sat in an airport terminal at two in the morning, watching a departure board flash "CANCELLED" in bright red letters, and I felt my entire inner world collapse into anger. I was furious at the airline, furious at the weather, furious at the universe for ruining my schedule. And then an older gentleman sitting next to me closed his paperback, looked at the board, smiled gently, and said, "Well, I guess we get to read for another three hours." That man had a secret I desperately needed. He wasn't ignoring reality; he had simply mastered the architecture of his own joy. 
 
 That night sent me on a search that eventually led me to William B. Irvine’s brilliant, life-altering book, *A Guide to the Good Life: The Ancient Art of Stoic Joy*. When most people hear the word "Stoicism," they picture a marble statue—cold, emotionless, enduring pain with a stiff upper lip. But Irvine strips away the academic dust and reveals the true, beating heart of this ancient philosophy. **Stoicism is not about turning off your heart to avoid the pain; it is about turning on your wisdom to protect your peace.** This book is a masterclass in how to stop being a victim of your circumstances and start becoming the author of your inner weather. Let me walk you through the blueprint.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/a-guide-to-the-good-life.mp3" %}
 
 ## The Ultimate Goal: Tranquility and Joy
 
@@ -80,3 +80,5 @@ So here is what I want you to do today. Not tomorrow. Today. I want you to pract
 Tonight, when you tuck your child into bed, or when you say goodbye to your partner, or even when you just turn off your kitchen light before going to sleep, pause for three seconds. Look at the moment. Tell yourself: *This could be the last time I ever get to do this.* Feel the weight of that thought. Let it break your heart just a little bit. And then, feel the immense, radiant, overwhelming gratitude that floods in behind it. 
 
 A single moment of intentional gratitude is worth more than a lifetime of passive complaining. Do it tonight. Feel the shift. And then wake up tomorrow, step into your arena, and play your best arrow.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
