@@ -2,7 +2,7 @@
 title: "The Architecture of Inner Freedom: How Four Simple Agreements Can Rewire Your Life"
 description: >-
   Discover the profound Toltec wisdom of Don Miguel Ruiz’s The Four Agreements and learn how to break free from limiting beliefs, stop taking things personally, and design a life of genuine emotional freedom.
-date: 2026-08-24 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   mindset,
@@ -28,6 +28,8 @@ If I could sit across the table from you right now, I would ask you a simple que
 In *The Four Agreements*, Don Miguel Ruiz, a Mexican author and shaman from a lineage of Toltec knowledge keepers, offers a perspective that is as ancient as it is urgently relevant. His central thesis is that human suffering is not an unavoidable condition of life. It is the direct result of the false agreements we have made with ourselves, our society, and our environment. 
 
 You do not need to add more rules to your life to find peace. You do not need another complex productivity system or a new diet. You simply need to revoke the old agreements that are keeping you in the dark, and make four new ones.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/the-four-agreements.mp3" %}
 
 ### The Fog of Domestication
 
@@ -135,3 +137,5 @@ When that happens, do not use the agreements as a new weapon to beat yourself up
 You have spent your whole life agreeing to a script that was written for you. You have carried the weight of expectations that were never yours to bear. But the pen is in your hand now. 
 
 Your freedom does not require you to conquer the world. It only requires you to stop agreeing with the lies it tells you about who you are.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
