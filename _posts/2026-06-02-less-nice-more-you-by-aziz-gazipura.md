@@ -2,7 +2,7 @@
 title: "Stop Being Nice, Start Being Real: How to Reclaim Your Life Without Losing Your Heart"
 description: >-
   Aziz Gazipura’s Less Nice, More You offers a compassionate roadmap out of people-pleasing and into authentic self-expression. Discover why true kindness requires boundaries, honesty, and the courage to be fully yourself.
-date: 2026-08-17 00:00:00 +0800
+date: 2026-09-07 00:00:00 +0800
 categories: [book-summaries, personal-development]
 tags: [
   authenticity,
@@ -28,6 +28,8 @@ You may know this ache. The feeling of saying “yes” while your body screams 
 Aziz Gazipura wrote *Less Nice, More You* for anyone who has confused niceness with goodness. His central message is both liberating and terrifying: **Being nice is often a defense mechanism disguised as virtue, and reclaiming your authentic self requires unlearning behaviors you were praised for developing.**
 
 This is not a call to become harsh, selfish, or indifferent. It is an invitation to become real. And reality, Gazipura argues, is the only foundation upon which genuine connection, sustainable success, and inner peace can be built.
+
+{% include plyr-audio.html src="https://pub-9528a9b817174bceb0c993c754309d2c.r2.dev/audio-summaries/less-nice-more-you.mp3" %}
 
 ## The Big Idea: Niceness Is a Strategy, Not a Virtue
 
@@ -199,3 +201,5 @@ This single act is a vote for your own existence. It tells your nervous system t
 Your authenticity is not a threat to love. It is the only ground where real love can stand.
 
 Begin there. The rest follows.
+
+{% include telegram-banner.html url="https://t.me/will_napolini_summaries" title="Read more. Read smarter." subtitle="Join 5,000+ readers who get weekly book summaries straight to Telegram" cta_text="JOIN CHANNEL" %}
